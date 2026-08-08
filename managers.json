@@ -1,0 +1,2571 @@
+[
+ {
+  "manager_slug":"salt",
+  "manager_name":"Salt Funds Management",
+  "insight_count":3628,
+  "latest_published_at":"2026-08-03T00:24:37+00:00",
+  "url":"by-manager/salt.json"
+ },
+ {
+  "manager_slug":"cooper_investors",
+  "manager_name":"Cooper Investors",
+  "insight_count":2280,
+  "latest_published_at":"2026-04-01T00:00:00+00:00",
+  "url":"by-manager/cooper_investors.json"
+ },
+ {
+  "manager_slug":"devon",
+  "manager_name":"Devon Funds Management",
+  "insight_count":2130,
+  "latest_published_at":"2026-07-01T00:00:00+00:00",
+  "url":"by-manager/devon.json"
+ },
+ {
+  "manager_slug":"perennial",
+  "manager_name":"Perennial Value Management",
+  "insight_count":2105,
+  "latest_published_at":"2026-07-01T00:00:00+00:00",
+  "url":"by-manager/perennial.json"
+ },
+ {
+  "manager_slug":"sage_capital",
+  "manager_name":"Sage Capital",
+  "insight_count":1232,
+  "latest_published_at":"2026-07-01T00:00:00+00:00",
+  "url":"by-manager/sage_capital.json"
+ },
+ {
+  "manager_slug":"mpc_markets",
+  "manager_name":"MPC Markets",
+  "insight_count":1198,
+  "latest_published_at":"2026-08-07T00:00:00+00:00",
+  "url":"by-manager/mpc_markets.json"
+ },
+ {
+  "manager_slug":"greencape",
+  "manager_name":"Greencape Capital",
+  "insight_count":1198,
+  "latest_published_at":"2026-04-01T00:00:00+00:00",
+  "url":"by-manager/greencape.json"
+ },
+ {
+  "manager_slug":"quest",
+  "manager_name":"Quest Asset Partners",
+  "insight_count":1193,
+  "latest_published_at":"2026-07-01T00:00:00+00:00",
+  "url":"by-manager/quest.json"
+ },
+ {
+  "manager_slug":"wilson",
+  "manager_name":"Wilson Asset Management",
+  "insight_count":1017,
+  "latest_published_at":"2026-08-06T20:00:00+00:00",
+  "url":"by-manager/wilson.json"
+ },
+ {
+  "manager_slug":"spheria",
+  "manager_name":"Spheria Asset Management",
+  "insight_count":981,
+  "latest_published_at":"2026-07-01T00:00:00+00:00",
+  "url":"by-manager/spheria.json"
+ },
+ {
+  "manager_slug":"commsec",
+  "manager_name":"CommSec",
+  "insight_count":937,
+  "latest_published_at":"2026-08-07T06:57:10+00:00",
+  "url":"by-manager/commsec.json"
+ },
+ {
+  "manager_slug":"l1_capital",
+  "manager_name":"L1 Capital",
+  "insight_count":785,
+  "latest_published_at":"2026-07-01T00:00:00+00:00",
+  "url":"by-manager/l1_capital.json"
+ },
+ {
+  "manager_slug":"regal",
+  "manager_name":"Regal Funds Management",
+  "insight_count":772,
+  "latest_published_at":"2026-07-01T00:00:00+00:00",
+  "url":"by-manager/regal.json"
+ },
+ {
+  "manager_slug":"fairview",
+  "manager_name":"Fairview Equity Partners",
+  "insight_count":712,
+  "latest_published_at":"2026-07-01T00:00:00+00:00",
+  "url":"by-manager/fairview.json"
+ },
+ {
+  "manager_slug":"equity_mates_media",
+  "manager_name":"Equity Mates Media",
+  "insight_count":685,
+  "latest_published_at":"2026-08-06T19:05:00+00:00",
+  "url":"by-manager/equity_mates_media.json"
+ },
+ {
+  "manager_slug":"magellan",
+  "manager_name":"Magellan Asset Management",
+  "insight_count":639,
+  "latest_published_at":"2026-08-01T00:00:00+00:00",
+  "url":"by-manager/magellan.json"
+ },
+ {
+  "manager_slug":"australian_ethical",
+  "manager_name":"Australian Ethical Investment",
+  "insight_count":565,
+  "latest_published_at":"2026-07-01T00:00:00+00:00",
+  "url":"by-manager/australian_ethical.json"
+ },
+ {
+  "manager_slug":"east_72",
+  "manager_name":"East 72",
+  "insight_count":532,
+  "latest_published_at":"2026-07-01T00:00:00+00:00",
+  "url":"by-manager/east_72.json"
+ },
+ {
+  "manager_slug":"blackwattle",
+  "manager_name":"Blackwattle Investment Partners",
+  "insight_count":507,
+  "latest_published_at":"2026-07-21T03:51:49+00:00",
+  "url":"by-manager/blackwattle.json"
+ },
+ {
+  "manager_slug":"ecp",
+  "manager_name":"ECP Asset Management",
+  "insight_count":465,
+  "latest_published_at":"2026-08-01T00:00:00+00:00",
+  "url":"by-manager/ecp.json"
+ },
+ {
+  "manager_slug":"pendal",
+  "manager_name":"Pendal Group",
+  "insight_count":441,
+  "latest_published_at":"2026-07-16T00:00:00+00:00",
+  "url":"by-manager/pendal.json"
+ },
+ {
+  "manager_slug":"pimco",
+  "manager_name":"PIMCO",
+  "insight_count":416,
+  "latest_published_at":"2026-08-06T16:56:00+00:00",
+  "url":"by-manager/pimco.json"
+ },
+ {
+  "manager_slug":"milford",
+  "manager_name":"Milford Asset Management",
+  "insight_count":396,
+  "latest_published_at":"2026-08-05T02:41:00+00:00",
+  "url":"by-manager/milford.json"
+ },
+ {
+  "manager_slug":"yarra_capital",
+  "manager_name":"Yarra Capital Management",
+  "insight_count":395,
+  "latest_published_at":"2026-07-26T02:50:03+00:00",
+  "url":"by-manager/yarra_capital.json"
+ },
+ {
+  "manager_slug":"rask",
+  "manager_name":"Rask",
+  "insight_count":394,
+  "latest_published_at":"2026-08-07T21:00:00+00:00",
+  "url":"by-manager/rask.json"
+ },
+ {
+  "manager_slug":"marcus_today",
+  "manager_name":"Marcus Today",
+  "insight_count":389,
+  "latest_published_at":"2026-08-05T03:52:21+00:00",
+  "url":"by-manager/marcus_today.json"
+ },
+ {
+  "manager_slug":"fidelity_international",
+  "manager_name":"Fidelity International",
+  "insight_count":386,
+  "latest_published_at":"2026-08-07T08:24:17+00:00",
+  "url":"by-manager/fidelity_international.json"
+ },
+ {
+  "manager_slug":"thorney_investments",
+  "manager_name":"Thorney Investments",
+  "insight_count":383,
+  "latest_published_at":"2026-07-01T00:00:00+00:00",
+  "url":"by-manager/thorney_investments.json"
+ },
+ {
+  "manager_slug":"forager",
+  "manager_name":"Forager Funds Management",
+  "insight_count":382,
+  "latest_published_at":"2026-08-06T00:00:00+00:00",
+  "url":"by-manager/forager.json"
+ },
+ {
+  "manager_slug":"antipodes",
+  "manager_name":"Antipodes Partners",
+  "insight_count":378,
+  "latest_published_at":"2026-07-01T00:00:00+00:00",
+  "url":"by-manager/antipodes.json"
+ },
+ {
+  "manager_slug":"j_p_morgan_research",
+  "manager_name":"J.P. Morgan Research",
+  "insight_count":375,
+  "latest_published_at":"2026-08-07T20:11:51+00:00",
+  "url":"by-manager/j_p_morgan_research.json"
+ },
+ {
+  "manager_slug":"ellerston",
+  "manager_name":"Ellerston Capital",
+  "insight_count":367,
+  "latest_published_at":"2026-08-01T00:00:00+00:00",
+  "url":"by-manager/ellerston.json"
+ },
+ {
+  "manager_slug":"selector",
+  "manager_name":"Selector Funds Management",
+  "insight_count":358,
+  "latest_published_at":"2026-07-01T00:00:00+00:00",
+  "url":"by-manager/selector.json"
+ },
+ {
+  "manager_slug":"nab",
+  "manager_name":"NAB",
+  "insight_count":338,
+  "latest_published_at":"2026-08-05T20:32:54+00:00",
+  "url":"by-manager/nab.json"
+ },
+ {
+  "manager_slug":"anz_research",
+  "manager_name":"ANZ Research",
+  "insight_count":333,
+  "latest_published_at":"2026-08-06T19:44:00+00:00",
+  "url":"by-manager/anz_research.json"
+ },
+ {
+  "manager_slug":"jack_farley",
+  "manager_name":"Jack Farley",
+  "insight_count":330,
+  "latest_published_at":"2026-08-07T18:48:00+00:00",
+  "url":"by-manager/jack_farley.json"
+ },
+ {
+  "manager_slug":"maple_brown_abbott",
+  "manager_name":"Maple-Brown Abbott",
+  "insight_count":325,
+  "latest_published_at":"2026-08-03T23:23:13+00:00",
+  "url":"by-manager/maple_brown_abbott.json"
+ },
+ {
+  "manager_slug":"ten_cap_investment_management",
+  "manager_name":"Ten Cap Investment Management",
+  "insight_count":321,
+  "latest_published_at":"2026-08-07T03:13:55+00:00",
+  "url":"by-manager/ten_cap_investment_management.json"
+ },
+ {
+  "manager_slug":"prime_value",
+  "manager_name":"Prime Value Asset Management",
+  "insight_count":318,
+  "latest_published_at":"2026-07-01T00:00:00+00:00",
+  "url":"by-manager/prime_value.json"
+ },
+ {
+  "manager_slug":"k2",
+  "manager_name":"K2 Asset Management",
+  "insight_count":314,
+  "latest_published_at":"2026-08-04T06:48:03+00:00",
+  "url":"by-manager/k2.json"
+ },
+ {
+  "manager_slug":"ausbil",
+  "manager_name":"Ausbil Investment Management",
+  "insight_count":293,
+  "latest_published_at":"2026-08-01T00:00:00+00:00",
+  "url":"by-manager/ausbil.json"
+ },
+ {
+  "manager_slug":"intelligent_investor",
+  "manager_name":"Intelligent Investor",
+  "insight_count":278,
+  "latest_published_at":"2026-07-01T00:00:00+00:00",
+  "url":"by-manager/intelligent_investor.json"
+ },
+ {
+  "manager_slug":"morgan_stanley_research",
+  "manager_name":"Morgan Stanley Research",
+  "insight_count":266,
+  "latest_published_at":"2026-08-06T20:00:00+00:00",
+  "url":"by-manager/morgan_stanley_research.json"
+ },
+ {
+  "manager_slug":"blackrock",
+  "manager_name":"BlackRock",
+  "insight_count":262,
+  "latest_published_at":"2026-08-03T14:30:00+00:00",
+  "url":"by-manager/blackrock.json"
+ },
+ {
+  "manager_slug":"vaneck",
+  "manager_name":"VanEck",
+  "insight_count":249,
+  "latest_published_at":"2026-07-16T00:00:00+00:00",
+  "url":"by-manager/vaneck.json"
+ },
+ {
+  "manager_slug":"argo",
+  "manager_name":"Argo Investments",
+  "insight_count":245,
+  "latest_published_at":"2026-08-05T03:10:33+00:00",
+  "url":"by-manager/argo.json"
+ },
+ {
+  "manager_slug":"morgans_financial",
+  "manager_name":"Morgans Financial",
+  "insight_count":235,
+  "latest_published_at":"2026-08-03T02:17:23+00:00",
+  "url":"by-manager/morgans_financial.json"
+ },
+ {
+  "manager_slug":"insignia_mlc",
+  "manager_name":"Insignia Financial (MLC)",
+  "insight_count":234,
+  "latest_published_at":"2026-08-01T00:00:00+00:00",
+  "url":"by-manager/insignia_mlc.json"
+ },
+ {
+  "manager_slug":"pengana",
+  "manager_name":"Pengana Capital",
+  "insight_count":229,
+  "latest_published_at":"2026-08-06T03:53:03+00:00",
+  "url":"by-manager/pengana.json"
+ },
+ {
+  "manager_slug":"jpmorgan_am",
+  "manager_name":"J.P. Morgan Asset Management",
+  "insight_count":225,
+  "latest_published_at":"2026-08-06T03:17:54+00:00",
+  "url":"by-manager/jpmorgan_am.json"
+ },
+ {
+  "manager_slug":"sg_hiscock",
+  "manager_name":"SG Hiscock & Company",
+  "insight_count":224,
+  "latest_published_at":"2026-08-03T23:47:24+00:00",
+  "url":"by-manager/sg_hiscock.json"
+ },
+ {
+  "manager_slug":"clime",
+  "manager_name":"Clime Investment Management",
+  "insight_count":214,
+  "latest_published_at":"2026-08-06T00:00:00+00:00",
+  "url":"by-manager/clime.json"
+ },
+ {
+  "manager_slug":"mineral_media",
+  "manager_name":"Mineral Media",
+  "insight_count":212,
+  "latest_published_at":"2026-06-09T09:00:00+00:00",
+  "url":"by-manager/mineral_media.json"
+ },
+ {
+  "manager_slug":"montgomery_investment_management",
+  "manager_name":"Montgomery Investment Management",
+  "insight_count":209,
+  "latest_published_at":"2026-08-06T02:59:10+00:00",
+  "url":"by-manager/montgomery_investment_management.json"
+ },
+ {
+  "manager_slug":"alphinity",
+  "manager_name":"Alphinity Investment Management",
+  "insight_count":205,
+  "latest_published_at":"2026-07-13T00:00:00+00:00",
+  "url":"by-manager/alphinity.json"
+ },
+ {
+  "manager_slug":"perpetual",
+  "manager_name":"Perpetual",
+  "insight_count":189,
+  "latest_published_at":"2026-08-05T00:00:00+00:00",
+  "url":"by-manager/perpetual.json"
+ },
+ {
+  "manager_slug":"shaw_and_partners",
+  "manager_name":"Shaw and Partners",
+  "insight_count":186,
+  "latest_published_at":"2026-08-07T04:11:10+00:00",
+  "url":"by-manager/shaw_and_partners.json"
+ },
+ {
+  "manager_slug":"paradice",
+  "manager_name":"Paradice Investment Management",
+  "insight_count":180,
+  "latest_published_at":"2026-07-22T02:25:57+00:00",
+  "url":"by-manager/paradice.json"
+ },
+ {
+  "manager_slug":"teaminvest",
+  "manager_name":"Teaminvest",
+  "insight_count":176,
+  "latest_published_at":"2026-08-06T07:39:14+00:00",
+  "url":"by-manager/teaminvest.json"
+ },
+ {
+  "manager_slug":"lakehouse_capital",
+  "manager_name":"Lakehouse Capital",
+  "insight_count":172,
+  "latest_published_at":"2026-07-01T00:00:00+00:00",
+  "url":"by-manager/lakehouse_capital.json"
+ },
+ {
+  "manager_slug":"pinnacle_affiliates",
+  "manager_name":"Pinnacle Affiliates",
+  "insight_count":165,
+  "latest_published_at":"2026-08-06T00:00:00+00:00",
+  "url":"by-manager/pinnacle_affiliates.json"
+ },
+ {
+  "manager_slug":"invesco",
+  "manager_name":"Invesco",
+  "insight_count":162,
+  "latest_published_at":"2026-08-03T20:35:37+00:00",
+  "url":"by-manager/invesco.json"
+ },
+ {
+  "manager_slug":"morningstar_australia",
+  "manager_name":"Morningstar Australia",
+  "insight_count":158,
+  "latest_published_at":"2026-08-04T00:00:00+00:00",
+  "url":"by-manager/morningstar_australia.json"
+ },
+ {
+  "manager_slug":"j_p_morgan",
+  "manager_name":"J.P. Morgan",
+  "insight_count":154,
+  "latest_published_at":"2026-08-07T18:43:17+00:00",
+  "url":"by-manager/j_p_morgan.json"
+ },
+ {
+  "manager_slug":"munro_partners",
+  "manager_name":"Munro Partners",
+  "insight_count":154,
+  "latest_published_at":"2026-07-01T00:31:31+00:00",
+  "url":"by-manager/munro_partners.json"
+ },
+ {
+  "manager_slug":"iml",
+  "manager_name":"Investors Mutual (IML)",
+  "insight_count":151,
+  "latest_published_at":"2026-08-05T01:10:21+00:00",
+  "url":"by-manager/iml.json"
+ },
+ {
+  "manager_slug":"bronte_capital",
+  "manager_name":"Bronte Capital",
+  "insight_count":151,
+  "latest_published_at":"2026-07-01T00:00:00+00:00",
+  "url":"by-manager/bronte_capital.json"
+ },
+ {
+  "manager_slug":"affluence",
+  "manager_name":"Affluence Funds Management",
+  "insight_count":147,
+  "latest_published_at":"2026-07-01T00:00:00+00:00",
+  "url":"by-manager/affluence.json"
+ },
+ {
+  "manager_slug":"auscap",
+  "manager_name":"Auscap Asset Management",
+  "insight_count":144,
+  "latest_published_at":"2026-07-20T00:00:00+00:00",
+  "url":"by-manager/auscap.json"
+ },
+ {
+  "manager_slug":"blockworks",
+  "manager_name":"Blockworks",
+  "insight_count":143,
+  "latest_published_at":"2026-08-07T07:00:00+00:00",
+  "url":"by-manager/blockworks.json"
+ },
+ {
+  "manager_slug":"unisuper",
+  "manager_name":"UniSuper",
+  "insight_count":142,
+  "latest_published_at":"2026-08-03T00:00:00+00:00",
+  "url":"by-manager/unisuper.json"
+ },
+ {
+  "manager_slug":"firetrail",
+  "manager_name":"Firetrail Investments",
+  "insight_count":139,
+  "latest_published_at":"2026-07-01T00:00:00+00:00",
+  "url":"by-manager/firetrail.json"
+ },
+ {
+  "manager_slug":"coolabah_capital",
+  "manager_name":"Coolabah Capital",
+  "insight_count":135,
+  "latest_published_at":"2026-06-30T01:32:50+00:00",
+  "url":"by-manager/coolabah_capital.json"
+ },
+ {
+  "manager_slug":"capital_allocators_llc",
+  "manager_name":"Capital Allocators LLC",
+  "insight_count":134,
+  "latest_published_at":"2026-07-30T08:00:00+00:00",
+  "url":"by-manager/capital_allocators_llc.json"
+ },
+ {
+  "manager_slug":"macro_voices",
+  "manager_name":"Macro Voices",
+  "insight_count":132,
+  "latest_published_at":"2026-08-06T16:03:34+00:00",
+  "url":"by-manager/macro_voices.json"
+ },
+ {
+  "manager_slug":"chester",
+  "manager_name":"Chester Asset Management",
+  "insight_count":129,
+  "latest_published_at":"2026-07-01T00:00:00+00:00",
+  "url":"by-manager/chester.json"
+ },
+ {
+  "manager_slug":"seneca",
+  "manager_name":"Seneca Financial Solutions",
+  "insight_count":128,
+  "latest_published_at":"2026-08-07T00:00:00+00:00",
+  "url":"by-manager/seneca.json"
+ },
+ {
+  "manager_slug":"aoris_investment_management",
+  "manager_name":"Aoris Investment Management",
+  "insight_count":128,
+  "latest_published_at":"2026-07-01T00:00:00+00:00",
+  "url":"by-manager/aoris_investment_management.json"
+ },
+ {
+  "manager_slug":"ark_invest",
+  "manager_name":"ARK Invest",
+  "insight_count":125,
+  "latest_published_at":"2026-08-07T09:00:00+00:00",
+  "url":"by-manager/ark_invest.json"
+ },
+ {
+  "manager_slug":"first_sentier",
+  "manager_name":"First Sentier Investors",
+  "insight_count":124,
+  "latest_published_at":"2026-07-01T00:00:00+00:00",
+  "url":"by-manager/first_sentier.json"
+ },
+ {
+  "manager_slug":"solaris",
+  "manager_name":"Solaris Investment Management",
+  "insight_count":123,
+  "latest_published_at":"2026-07-01T00:00:00+00:00",
+  "url":"by-manager/solaris.json"
+ },
+ {
+  "manager_slug":"the_australian_money_puzzle",
+  "manager_name":"The Australian (Money Puzzle)",
+  "insight_count":120,
+  "latest_published_at":"2026-08-06T19:00:00+00:00",
+  "url":"by-manager/the_australian_money_puzzle.json"
+ },
+ {
+  "manager_slug":"real_vision",
+  "manager_name":"Real Vision",
+  "insight_count":120,
+  "latest_published_at":"2026-08-03T17:37:00+00:00",
+  "url":"by-manager/real_vision.json"
+ },
+ {
+  "manager_slug":"nucleus_wealth",
+  "manager_name":"Nucleus Wealth",
+  "insight_count":113,
+  "latest_published_at":"2026-08-06T07:34:15+00:00",
+  "url":"by-manager/nucleus_wealth.json"
+ },
+ {
+  "manager_slug":"fnarena",
+  "manager_name":"FNArena",
+  "insight_count":110,
+  "latest_published_at":"2026-08-05T03:30:02+00:00",
+  "url":"by-manager/fnarena.json"
+ },
+ {
+  "manager_slug":"microequities_asset_management",
+  "manager_name":"Microequities Asset Management",
+  "insight_count":108,
+  "latest_published_at":"2026-08-01T00:00:00+00:00",
+  "url":"by-manager/microequities_asset_management.json"
+ },
+ {
+  "manager_slug":"fear_and_greed",
+  "manager_name":"Fear and Greed",
+  "insight_count":106,
+  "latest_published_at":"2026-07-26T17:30:00+00:00",
+  "url":"by-manager/fear_and_greed.json"
+ },
+ {
+  "manager_slug":"natixis_im_au",
+  "manager_name":"Natixis IM (AU)",
+  "insight_count":106,
+  "latest_published_at":"2026-07-09T01:55:37+00:00",
+  "url":"by-manager/natixis_im_au.json"
+ },
+ {
+  "manager_slug":"sandon_capital",
+  "manager_name":"Sandon Capital",
+  "insight_count":104,
+  "latest_published_at":"2026-08-01T00:00:00+00:00",
+  "url":"by-manager/sandon_capital.json"
+ },
+ {
+  "manager_slug":"market_matters",
+  "manager_name":"Market Matters",
+  "insight_count":102,
+  "latest_published_at":"2026-08-05T01:06:23+00:00",
+  "url":"by-manager/market_matters.json"
+ },
+ {
+  "manager_slug":"fairmont_equities",
+  "manager_name":"Fairmont Equities",
+  "insight_count":102,
+  "latest_published_at":"2026-08-03T02:17:42+00:00",
+  "url":"by-manager/fairmont_equities.json"
+ },
+ {
+  "manager_slug":"nabtrade",
+  "manager_name":"nabtrade",
+  "insight_count":101,
+  "latest_published_at":"2026-06-26T02:16:07+00:00",
+  "url":"by-manager/nabtrade.json"
+ },
+ {
+  "manager_slug":"hyperion",
+  "manager_name":"Hyperion Asset Management",
+  "insight_count":99,
+  "latest_published_at":"2026-07-01T00:00:00+00:00",
+  "url":"by-manager/hyperion.json"
+ },
+ {
+  "manager_slug":"ophir",
+  "manager_name":"Ophir Asset Management",
+  "insight_count":98,
+  "latest_published_at":"2026-07-09T00:41:56+00:00",
+  "url":"by-manager/ophir.json"
+ },
+ {
+  "manager_slug":"capital_group",
+  "manager_name":"Capital Group",
+  "insight_count":97,
+  "latest_published_at":"2026-08-06T12:00:00+00:00",
+  "url":"by-manager/capital_group.json"
+ },
+ {
+  "manager_slug":"alliance_bernstein",
+  "manager_name":"AllianceBernstein",
+  "insight_count":97,
+  "latest_published_at":"2026-07-15T15:59:00+00:00",
+  "url":"by-manager/alliance_bernstein.json"
+ },
+ {
+  "manager_slug":"future_generation",
+  "manager_name":"Future Generation",
+  "insight_count":95,
+  "latest_published_at":"2026-08-03T00:00:00+00:00",
+  "url":"by-manager/future_generation.json"
+ },
+ {
+  "manager_slug":"glenmore",
+  "manager_name":"Glenmore Asset Management",
+  "insight_count":95,
+  "latest_published_at":"2026-07-01T00:00:00+00:00",
+  "url":"by-manager/glenmore.json"
+ },
+ {
+  "manager_slug":"optar",
+  "manager_name":"Optar",
+  "insight_count":95,
+  "latest_published_at":"2023-07-01T00:00:00+00:00",
+  "url":"by-manager/optar.json"
+ },
+ {
+  "manager_slug":"koda_capital",
+  "manager_name":"Koda Capital",
+  "insight_count":94,
+  "latest_published_at":"2026-08-03T20:00:00+00:00",
+  "url":"by-manager/koda_capital.json"
+ },
+ {
+  "manager_slug":"clearbridge_investments",
+  "manager_name":"ClearBridge Investments",
+  "insight_count":92,
+  "latest_published_at":"2026-07-13T14:44:13+00:00",
+  "url":"by-manager/clearbridge_investments.json"
+ },
+ {
+  "manager_slug":"money_maze_podcast",
+  "manager_name":"Money Maze Podcast",
+  "insight_count":89,
+  "latest_published_at":"2026-08-06T05:00:00+00:00",
+  "url":"by-manager/money_maze_podcast.json"
+ },
+ {
+  "manager_slug":"dp_wealth_advisory",
+  "manager_name":"DP Wealth Advisory",
+  "insight_count":88,
+  "latest_published_at":"2026-08-05T01:24:59+00:00",
+  "url":"by-manager/dp_wealth_advisory.json"
+ },
+ {
+  "manager_slug":"perpetual_investment_management",
+  "manager_name":"Perpetual Investment Management",
+  "insight_count":87,
+  "latest_published_at":"2026-07-01T00:00:00+00:00",
+  "url":"by-manager/perpetual_investment_management.json"
+ },
+ {
+  "manager_slug":"escala_partners",
+  "manager_name":"Escala Partners",
+  "insight_count":85,
+  "latest_published_at":"2026-08-03T03:43:30+00:00",
+  "url":"by-manager/escala_partners.json"
+ },
+ {
+  "manager_slug":"rabobank",
+  "manager_name":"Rabobank",
+  "insight_count":83,
+  "latest_published_at":"2026-08-04T21:00:00+00:00",
+  "url":"by-manager/rabobank.json"
+ },
+ {
+  "manager_slug":"betashares",
+  "manager_name":"Betashares",
+  "insight_count":82,
+  "latest_published_at":"2026-08-03T01:46:13+00:00",
+  "url":"by-manager/betashares.json"
+ },
+ {
+  "manager_slug":"merewether_capital",
+  "manager_name":"Merewether Capital",
+  "insight_count":81,
+  "latest_published_at":"2026-08-06T02:10:32+00:00",
+  "url":"by-manager/merewether_capital.json"
+ },
+ {
+  "manager_slug":"coffee_microcaps",
+  "manager_name":"Coffee Microcaps",
+  "insight_count":79,
+  "latest_published_at":"2026-06-10T01:53:58+00:00",
+  "url":"by-manager/coffee_microcaps.json"
+ },
+ {
+  "manager_slug":"centennial_asset_management",
+  "manager_name":"Centennial Asset Management",
+  "insight_count":78,
+  "latest_published_at":"2026-08-06T06:47:32+00:00",
+  "url":"by-manager/centennial_asset_management.json"
+ },
+ {
+  "manager_slug":"cyan_investment_management",
+  "manager_name":"Cyan Investment Management",
+  "insight_count":78,
+  "latest_published_at":"2026-08-03T01:39:21+00:00",
+  "url":"by-manager/cyan_investment_management.json"
+ },
+ {
+  "manager_slug":"amp",
+  "manager_name":"AMP",
+  "insight_count":77,
+  "latest_published_at":"2026-08-07T07:09:41+00:00",
+  "url":"by-manager/amp.json"
+ },
+ {
+  "manager_slug":"gsfm",
+  "manager_name":"GSFM",
+  "insight_count":77,
+  "latest_published_at":"2026-08-05T00:49:31+00:00",
+  "url":"by-manager/gsfm.json"
+ },
+ {
+  "manager_slug":"contact_asset_management",
+  "manager_name":"Contact Asset Management",
+  "insight_count":77,
+  "latest_published_at":"2026-06-10T02:26:18+00:00",
+  "url":"by-manager/contact_asset_management.json"
+ },
+ {
+  "manager_slug":"vertium_asset_management",
+  "manager_name":"Vertium Asset Management",
+  "insight_count":73,
+  "latest_published_at":"2026-08-03T01:45:45+00:00",
+  "url":"by-manager/vertium_asset_management.json"
+ },
+ {
+  "manager_slug":"dnr_capital",
+  "manager_name":"DNR Capital",
+  "insight_count":73,
+  "latest_published_at":"2026-07-01T00:00:00+00:00",
+  "url":"by-manager/dnr_capital.json"
+ },
+ {
+  "manager_slug":"qvg",
+  "manager_name":"QVG Capital",
+  "insight_count":72,
+  "latest_published_at":"2026-08-01T00:00:00+00:00",
+  "url":"by-manager/qvg.json"
+ },
+ {
+  "manager_slug":"northcape_capital",
+  "manager_name":"Northcape Capital",
+  "insight_count":72,
+  "latest_published_at":"2026-07-28T00:00:00+00:00",
+  "url":"by-manager/northcape_capital.json"
+ },
+ {
+  "manager_slug":"oc_funds",
+  "manager_name":"OC Funds Management",
+  "insight_count":71,
+  "latest_published_at":"2026-08-01T00:00:00+00:00",
+  "url":"by-manager/oc_funds.json"
+ },
+ {
+  "manager_slug":"franklin_templeton",
+  "manager_name":"Franklin Templeton",
+  "insight_count":68,
+  "latest_published_at":"2026-08-04T04:05:00+00:00",
+  "url":"by-manager/franklin_templeton.json"
+ },
+ {
+  "manager_slug":"t_rowe_price",
+  "manager_name":"T. Rowe Price",
+  "insight_count":66,
+  "latest_published_at":"2026-08-06T01:10:03+00:00",
+  "url":"by-manager/t_rowe_price.json"
+ },
+ {
+  "manager_slug":"dexus",
+  "manager_name":"Dexus",
+  "insight_count":65,
+  "latest_published_at":"2026-07-01T00:00:00+00:00",
+  "url":"by-manager/dexus.json"
+ },
+ {
+  "manager_slug":"schroder_investment_management",
+  "manager_name":"Schroder Investment Management",
+  "insight_count":65,
+  "latest_published_at":"2026-07-01T00:00:00+00:00",
+  "url":"by-manager/schroder_investment_management.json"
+ },
+ {
+  "manager_slug":"marathon_am",
+  "manager_name":"Marathon AM",
+  "insight_count":63,
+  "latest_published_at":"2026-07-31T08:57:29+00:00",
+  "url":"by-manager/marathon_am.json"
+ },
+ {
+  "manager_slug":"morningstar",
+  "manager_name":"Morningstar",
+  "insight_count":62,
+  "latest_published_at":"2026-08-03T02:03:50+00:00",
+  "url":"by-manager/morningstar.json"
+ },
+ {
+  "manager_slug":"longwave",
+  "manager_name":"Longwave Capital Partners",
+  "insight_count":61,
+  "latest_published_at":"2026-07-16T01:58:34+00:00",
+  "url":"by-manager/longwave.json"
+ },
+ {
+  "manager_slug":"state_street_markets",
+  "manager_name":"State Street Markets",
+  "insight_count":60,
+  "latest_published_at":"2026-07-23T04:55:00+00:00",
+  "url":"by-manager/state_street_markets.json"
+ },
+ {
+  "manager_slug":"netwealth",
+  "manager_name":"Netwealth",
+  "insight_count":59,
+  "latest_published_at":"2026-07-10T00:49:00+00:00",
+  "url":"by-manager/netwealth.json"
+ },
+ {
+  "manager_slug":"fidante_partners",
+  "manager_name":"Fidante Partners",
+  "insight_count":59,
+  "latest_published_at":"2026-06-08T23:17:12+00:00",
+  "url":"by-manager/fidante_partners.json"
+ },
+ {
+  "manager_slug":"hlm_investments",
+  "manager_name":"HLM Investments",
+  "insight_count":57,
+  "latest_published_at":"2026-07-29T03:33:42+00:00",
+  "url":"by-manager/hlm_investments.json"
+ },
+ {
+  "manager_slug":"tanarra",
+  "manager_name":"Tanarra Capital",
+  "insight_count":57,
+  "latest_published_at":"2026-07-23T02:06:41+00:00",
+  "url":"by-manager/tanarra.json"
+ },
+ {
+  "manager_slug":"lgt_crestone",
+  "manager_name":"LGT Crestone",
+  "insight_count":55,
+  "latest_published_at":"2026-07-29T03:07:01+00:00",
+  "url":"by-manager/lgt_crestone.json"
+ },
+ {
+  "manager_slug":"victory",
+  "manager_name":"Victory",
+  "insight_count":55,
+  "latest_published_at":"2026-07-01T00:00:00+00:00",
+  "url":"by-manager/victory.json"
+ },
+ {
+  "manager_slug":"bell_potter",
+  "manager_name":"Bell Potter",
+  "insight_count":52,
+  "latest_published_at":"2026-07-24T00:00:00+00:00",
+  "url":"by-manager/bell_potter.json"
+ },
+ {
+  "manager_slug":"mastering_the_markets",
+  "manager_name":"Mastering the Markets",
+  "insight_count":50,
+  "latest_published_at":"2026-08-03T03:33:49+00:00",
+  "url":"by-manager/mastering_the_markets.json"
+ },
+ {
+  "manager_slug":"lennox",
+  "manager_name":"Lennox Capital Partners",
+  "insight_count":49,
+  "latest_published_at":"2026-07-01T00:00:00+00:00",
+  "url":"by-manager/lennox.json"
+ },
+ {
+  "manager_slug":"finer_market_points",
+  "manager_name":"Finer Market Points",
+  "insight_count":48,
+  "latest_published_at":"2026-05-20T23:00:00+00:00",
+  "url":"by-manager/finer_market_points.json"
+ },
+ {
+  "manager_slug":"stonex",
+  "manager_name":"StoneX",
+  "insight_count":47,
+  "latest_published_at":"2026-08-03T06:42:43+00:00",
+  "url":"by-manager/stonex.json"
+ },
+ {
+  "manager_slug":"robeco",
+  "manager_name":"Robeco",
+  "insight_count":46,
+  "latest_published_at":"2026-07-17T08:08:52+00:00",
+  "url":"by-manager/robeco.json"
+ },
+ {
+  "manager_slug":"al_capital",
+  "manager_name":"AL Capital",
+  "insight_count":46,
+  "latest_published_at":"2026-07-01T00:00:00+00:00",
+  "url":"by-manager/al_capital.json"
+ },
+ {
+  "manager_slug":"hesta",
+  "manager_name":"HESTA",
+  "insight_count":45,
+  "latest_published_at":"2026-03-01T00:00:00+00:00",
+  "url":"by-manager/hesta.json"
+ },
+ {
+  "manager_slug":"russell_inv",
+  "manager_name":"Russell Investments",
+  "insight_count":44,
+  "latest_published_at":"2026-08-06T02:17:01+00:00",
+  "url":"by-manager/russell_inv.json"
+ },
+ {
+  "manager_slug":"vanguard",
+  "manager_name":"Vanguard",
+  "insight_count":44,
+  "latest_published_at":"2026-08-04T18:13:56+00:00",
+  "url":"by-manager/vanguard.json"
+ },
+ {
+  "manager_slug":"naos",
+  "manager_name":"NAOS Asset Management",
+  "insight_count":44,
+  "latest_published_at":"2026-08-01T00:00:00+00:00",
+  "url":"by-manager/naos.json"
+ },
+ {
+  "manager_slug":"schroders",
+  "manager_name":"Schroders Australia",
+  "insight_count":44,
+  "latest_published_at":"2026-07-20T19:00:00+00:00",
+  "url":"by-manager/schroders.json"
+ },
+ {
+  "manager_slug":"bennelong_australian_equity_partners",
+  "manager_name":"Bennelong Australian Equity Partners",
+  "insight_count":44,
+  "latest_published_at":"2026-07-01T00:00:00+00:00",
+  "url":"by-manager/bennelong_australian_equity_partners.json"
+ },
+ {
+  "manager_slug":"pie_funds",
+  "manager_name":"Pie Funds",
+  "insight_count":43,
+  "latest_published_at":"2026-07-26T00:00:00+00:00",
+  "url":"by-manager/pie_funds.json"
+ },
+ {
+  "manager_slug":"ig",
+  "manager_name":"IG",
+  "insight_count":41,
+  "latest_published_at":"2026-07-22T02:27:28+00:00",
+  "url":"by-manager/ig.json"
+ },
+ {
+  "manager_slug":"macquarie_investment_management",
+  "manager_name":"Macquarie Investment Management",
+  "insight_count":41,
+  "latest_published_at":"2026-07-01T00:00:00+00:00",
+  "url":"by-manager/macquarie_investment_management.json"
+ },
+ {
+  "manager_slug":"bell_direct",
+  "manager_name":"Bell Direct",
+  "insight_count":41,
+  "latest_published_at":"2026-05-22T02:00:00+00:00",
+  "url":"by-manager/bell_direct.json"
+ },
+ {
+  "manager_slug":"smithweekly_research",
+  "manager_name":"SmithWeekly Research",
+  "insight_count":41,
+  "latest_published_at":"2026-05-20T15:24:36+00:00",
+  "url":"by-manager/smithweekly_research.json"
+ },
+ {
+  "manager_slug":"sandstone_insights",
+  "manager_name":"Sandstone Insights",
+  "insight_count":40,
+  "latest_published_at":"2026-08-07T02:24:35+00:00",
+  "url":"by-manager/sandstone_insights.json"
+ },
+ {
+  "manager_slug":"atlas_funds",
+  "manager_name":"Atlas Funds Management",
+  "insight_count":40,
+  "latest_published_at":"2026-07-01T00:00:00+00:00",
+  "url":"by-manager/atlas_funds.json"
+ },
+ {
+  "manager_slug":"plato",
+  "manager_name":"Plato Investment Management",
+  "insight_count":39,
+  "latest_published_at":"2026-02-26T00:00:00+00:00",
+  "url":"by-manager/plato.json"
+ },
+ {
+  "manager_slug":"wealthwise_education",
+  "manager_name":"Wealthwise Education",
+  "insight_count":38,
+  "latest_published_at":"2026-07-13T03:41:23+00:00",
+  "url":"by-manager/wealthwise_education.json"
+ },
+ {
+  "manager_slug":"tip_group",
+  "manager_name":"TIP Group",
+  "insight_count":38,
+  "latest_published_at":"2026-07-08T05:13:23+00:00",
+  "url":"by-manager/tip_group.json"
+ },
+ {
+  "manager_slug":"fisher_funds_management",
+  "manager_name":"Fisher Funds Management",
+  "insight_count":38,
+  "latest_published_at":"2026-07-01T00:00:00+00:00",
+  "url":"by-manager/fisher_funds_management.json"
+ },
+ {
+  "manager_slug":"resources_rising_stars",
+  "manager_name":"Resources Rising Stars",
+  "insight_count":38,
+  "latest_published_at":"2026-06-09T03:01:52+00:00",
+  "url":"by-manager/resources_rising_stars.json"
+ },
+ {
+  "manager_slug":"first_samuel",
+  "manager_name":"First Samuel",
+  "insight_count":37,
+  "latest_published_at":"2026-08-07T04:01:54+00:00",
+  "url":"by-manager/first_samuel.json"
+ },
+ {
+  "manager_slug":"trading_com",
+  "manager_name":"Trading.com",
+  "insight_count":37,
+  "latest_published_at":"2026-08-03T00:46:38+00:00",
+  "url":"by-manager/trading_com.json"
+ },
+ {
+  "manager_slug":"martin_currie_australia",
+  "manager_name":"Martin Currie Australia",
+  "insight_count":37,
+  "latest_published_at":"2026-06-21T20:00:00+00:00",
+  "url":"by-manager/martin_currie_australia.json"
+ },
+ {
+  "manager_slug":"apollo_global_management",
+  "manager_name":"Apollo Global Management",
+  "insight_count":36,
+  "latest_published_at":"2026-07-08T21:02:07+00:00",
+  "url":"by-manager/apollo_global_management.json"
+ },
+ {
+  "manager_slug":"muskets_at_dawn",
+  "manager_name":"Muskets at Dawn",
+  "insight_count":36,
+  "latest_published_at":"2026-05-15T10:15:33+00:00",
+  "url":"by-manager/muskets_at_dawn.json"
+ },
+ {
+  "manager_slug":"amp_investments",
+  "manager_name":"AMP Investments",
+  "insight_count":34,
+  "latest_published_at":"2026-08-07T02:33:44+00:00",
+  "url":"by-manager/amp_investments.json"
+ },
+ {
+  "manager_slug":"colonial_first_state",
+  "manager_name":"Colonial First State",
+  "insight_count":34,
+  "latest_published_at":"2026-08-06T03:02:10+00:00",
+  "url":"by-manager/colonial_first_state.json"
+ },
+ {
+  "manager_slug":"1851_capital",
+  "manager_name":"1851 Capital",
+  "insight_count":34,
+  "latest_published_at":"2026-08-05T01:11:59+00:00",
+  "url":"by-manager/1851_capital.json"
+ },
+ {
+  "manager_slug":"alf_and_brent",
+  "manager_name":"Alf & Brent",
+  "insight_count":34,
+  "latest_published_at":"2026-07-31T13:00:00+00:00",
+  "url":"by-manager/alf_and_brent.json"
+ },
+ {
+  "manager_slug":"merlon",
+  "manager_name":"Merlon Capital Partners",
+  "insight_count":34,
+  "latest_published_at":"2026-06-01T00:00:00+00:00",
+  "url":"by-manager/merlon.json"
+ },
+ {
+  "manager_slug":"banyantree_investment",
+  "manager_name":"Banyantree Investment",
+  "insight_count":33,
+  "latest_published_at":"2026-07-13T03:41:23+00:00",
+  "url":"by-manager/banyantree_investment.json"
+ },
+ {
+  "manager_slug":"talaria",
+  "manager_name":"Talaria Asset Management",
+  "insight_count":33,
+  "latest_published_at":"2026-07-09T00:00:00+00:00",
+  "url":"by-manager/talaria.json"
+ },
+ {
+  "manager_slug":"j_p_morgan_private_bank",
+  "manager_name":"J.P. Morgan Private Bank",
+  "insight_count":32,
+  "latest_published_at":"2026-07-22T13:14:30+00:00",
+  "url":"by-manager/j_p_morgan_private_bank.json"
+ },
+ {
+  "manager_slug":"a_rich_life",
+  "manager_name":"A Rich Life",
+  "insight_count":32,
+  "latest_published_at":"2026-07-20T01:06:21+00:00",
+  "url":"by-manager/a_rich_life.json"
+ },
+ {
+  "manager_slug":"global_x_etfs",
+  "manager_name":"Global X ETFs",
+  "insight_count":32,
+  "latest_published_at":"2026-07-15T05:52:03+00:00",
+  "url":"by-manager/global_x_etfs.json"
+ },
+ {
+  "manager_slug":"australian_investment_education",
+  "manager_name":"Australian Investment Education",
+  "insight_count":31,
+  "latest_published_at":"2026-08-07T06:01:22+00:00",
+  "url":"by-manager/australian_investment_education.json"
+ },
+ {
+  "manager_slug":"harbour",
+  "manager_name":"Harbour Asset Management",
+  "insight_count":31,
+  "latest_published_at":"2026-08-06T03:46:16+00:00",
+  "url":"by-manager/harbour.json"
+ },
+ {
+  "manager_slug":"circular_technology",
+  "manager_name":"Circular Technology",
+  "insight_count":31,
+  "latest_published_at":"2026-07-24T00:32:12+00:00",
+  "url":"by-manager/circular_technology.json"
+ },
+ {
+  "manager_slug":"acadian",
+  "manager_name":"Acadian Asset Management",
+  "insight_count":31,
+  "latest_published_at":"2026-07-01T00:00:00+00:00",
+  "url":"by-manager/acadian.json"
+ },
+ {
+  "manager_slug":"baillie_gifford",
+  "manager_name":"Baillie Gifford",
+  "insight_count":30,
+  "latest_published_at":"2026-08-04T05:00:00+00:00",
+  "url":"by-manager/baillie_gifford.json"
+ },
+ {
+  "manager_slug":"asx_limited",
+  "manager_name":"ASX Limited",
+  "insight_count":30,
+  "latest_published_at":"2026-04-28T18:15:00+00:00",
+  "url":"by-manager/asx_limited.json"
+ },
+ {
+  "manager_slug":"euroz_hartleys",
+  "manager_name":"Euroz Hartleys",
+  "insight_count":29,
+  "latest_published_at":"2026-07-31T05:47:18+00:00",
+  "url":"by-manager/euroz_hartleys.json"
+ },
+ {
+  "manager_slug":"finpods",
+  "manager_name":"Finpods",
+  "insight_count":29,
+  "latest_published_at":"2026-05-22T21:00:00+00:00",
+  "url":"by-manager/finpods.json"
+ },
+ {
+  "manager_slug":"sandp_dow_jones_indices",
+  "manager_name":"S&P Dow Jones Indices",
+  "insight_count":28,
+  "latest_published_at":"2026-08-05T00:28:09+00:00",
+  "url":"by-manager/sandp_dow_jones_indices.json"
+ },
+ {
+  "manager_slug":"mfs_investment_management",
+  "manager_name":"MFS Investment Management",
+  "insight_count":28,
+  "latest_published_at":"2026-07-14T19:19:54+00:00",
+  "url":"by-manager/mfs_investment_management.json"
+ },
+ {
+  "manager_slug":"aware_super",
+  "manager_name":"Aware Super",
+  "insight_count":28,
+  "latest_published_at":"2026-06-14T22:00:00+00:00",
+  "url":"by-manager/aware_super.json"
+ },
+ {
+  "manager_slug":"pitcher_partners",
+  "manager_name":"Pitcher Partners",
+  "insight_count":27,
+  "latest_published_at":"2026-08-05T03:11:22+00:00",
+  "url":"by-manager/pitcher_partners.json"
+ },
+ {
+  "manager_slug":"platypus",
+  "manager_name":"Platypus Asset Management",
+  "insight_count":26,
+  "latest_published_at":"2026-07-01T00:00:00+00:00",
+  "url":"by-manager/platypus.json"
+ },
+ {
+  "manager_slug":"deep_data_analytics",
+  "manager_name":"Deep Data Analytics",
+  "insight_count":25,
+  "latest_published_at":"2026-08-06T02:28:01+00:00",
+  "url":"by-manager/deep_data_analytics.json"
+ },
+ {
+  "manager_slug":"harvest_lane_asset_management",
+  "manager_name":"Harvest Lane Asset Management",
+  "insight_count":25,
+  "latest_published_at":"2026-07-21T05:53:29+00:00",
+  "url":"by-manager/harvest_lane_asset_management.json"
+ },
+ {
+  "manager_slug":"money_magazine",
+  "manager_name":"Money Magazine",
+  "insight_count":25,
+  "latest_published_at":"2026-06-30T15:00:00+00:00",
+  "url":"by-manager/money_magazine.json"
+ },
+ {
+  "manager_slug":"collins_st_value_fund",
+  "manager_name":"Collins St Value Fund",
+  "insight_count":25,
+  "latest_published_at":"2026-06-22T00:00:00+00:00",
+  "url":"by-manager/collins_st_value_fund.json"
+ },
+ {
+  "manager_slug":"montgomery",
+  "manager_name":"Montgomery",
+  "insight_count":24,
+  "latest_published_at":"2026-08-06T02:34:07+00:00",
+  "url":"by-manager/montgomery.json"
+ },
+ {
+  "manager_slug":"bca_research",
+  "manager_name":"BCA Research",
+  "insight_count":24,
+  "latest_published_at":"2026-07-23T02:15:47+00:00",
+  "url":"by-manager/bca_research.json"
+ },
+ {
+  "manager_slug":"under_the_radar_report",
+  "manager_name":"Under The Radar Report",
+  "insight_count":23,
+  "latest_published_at":"2026-06-22T01:22:56+00:00",
+  "url":"by-manager/under_the_radar_report.json"
+ },
+ {
+  "manager_slug":"australian_shareholders_association",
+  "manager_name":"Australian Shareholders Association",
+  "insight_count":22,
+  "latest_published_at":"2026-07-24T04:39:51+00:00",
+  "url":"by-manager/australian_shareholders_association.json"
+ },
+ {
+  "manager_slug":"eley_griffiths",
+  "manager_name":"Eley Griffiths Group",
+  "insight_count":22,
+  "latest_published_at":"2026-07-23T06:07:21+00:00",
+  "url":"by-manager/eley_griffiths.json"
+ },
+ {
+  "manager_slug":"equion_capital",
+  "manager_name":"Equion Capital",
+  "insight_count":22,
+  "latest_published_at":"2026-07-20T01:35:08+00:00",
+  "url":"by-manager/equion_capital.json"
+ },
+ {
+  "manager_slug":"wavestone_capital",
+  "manager_name":"Wavestone Capital",
+  "insight_count":22,
+  "latest_published_at":"2026-07-01T00:00:00+00:00",
+  "url":"by-manager/wavestone_capital.json"
+ },
+ {
+  "manager_slug":"private_portfolio_managers",
+  "manager_name":"Private Portfolio Managers",
+  "insight_count":21,
+  "latest_published_at":"2026-07-27T03:51:46+00:00",
+  "url":"by-manager/private_portfolio_managers.json"
+ },
+ {
+  "manager_slug":"zacks_investment_research",
+  "manager_name":"Zacks Investment Research",
+  "insight_count":21,
+  "latest_published_at":"2026-07-15T00:27:16+00:00",
+  "url":"by-manager/zacks_investment_research.json"
+ },
+ {
+  "manager_slug":"commonwealth_bank",
+  "manager_name":"Commonwealth Bank",
+  "insight_count":21,
+  "latest_published_at":"2026-07-08T01:19:45+00:00",
+  "url":"by-manager/commonwealth_bank.json"
+ },
+ {
+  "manager_slug":"stockhead",
+  "manager_name":"Stockhead",
+  "insight_count":21,
+  "latest_published_at":"2026-06-04T19:00:00+00:00",
+  "url":"by-manager/stockhead.json"
+ },
+ {
+  "manager_slug":"bloomberg",
+  "manager_name":"Bloomberg",
+  "insight_count":21,
+  "latest_published_at":"2026-05-21T02:42:37+00:00",
+  "url":"by-manager/bloomberg.json"
+ },
+ {
+  "manager_slug":"macquarie",
+  "manager_name":"Macquarie Asset Management",
+  "insight_count":21,
+  "latest_published_at":"2026-04-27T21:00:00+00:00",
+  "url":"by-manager/macquarie.json"
+ },
+ {
+  "manager_slug":"australian_gold_fund",
+  "manager_name":"Australian Gold Fund",
+  "insight_count":20,
+  "latest_published_at":"2026-07-27T07:31:31+00:00",
+  "url":"by-manager/australian_gold_fund.json"
+ },
+ {
+  "manager_slug":"kapstream",
+  "manager_name":"Kapstream",
+  "insight_count":19,
+  "latest_published_at":"2026-08-06T01:37:17+00:00",
+  "url":"by-manager/kapstream.json"
+ },
+ {
+  "manager_slug":"natixis_im",
+  "manager_name":"Natixis IM",
+  "insight_count":19,
+  "latest_published_at":"2026-07-31T16:31:46+00:00",
+  "url":"by-manager/natixis_im.json"
+ },
+ {
+  "manager_slug":"ord_minnett",
+  "manager_name":"Ord Minnett",
+  "insight_count":19,
+  "latest_published_at":"2026-07-27T07:04:11+00:00",
+  "url":"by-manager/ord_minnett.json"
+ },
+ {
+  "manager_slug":"fat_prophets",
+  "manager_name":"Fat Prophets",
+  "insight_count":19,
+  "latest_published_at":"2026-07-15T02:17:36+00:00",
+  "url":"by-manager/fat_prophets.json"
+ },
+ {
+  "manager_slug":"bennelong",
+  "manager_name":"Bennelong Funds Management",
+  "insight_count":19,
+  "latest_published_at":"2026-07-01T00:00:00+00:00",
+  "url":"by-manager/bennelong.json"
+ },
+ {
+  "manager_slug":"fundamental_investment_management",
+  "manager_name":"Fundamental Investment Management",
+  "insight_count":19,
+  "latest_published_at":"2026-06-26T02:57:20+00:00",
+  "url":"by-manager/fundamental_investment_management.json"
+ },
+ {
+  "manager_slug":"firstlinks",
+  "manager_name":"Firstlinks",
+  "insight_count":18,
+  "latest_published_at":"2026-08-04T19:36:00+00:00",
+  "url":"by-manager/firstlinks.json"
+ },
+ {
+  "manager_slug":"brookfield_am",
+  "manager_name":"Brookfield AM",
+  "insight_count":18,
+  "latest_published_at":"2026-07-30T04:00:00+00:00",
+  "url":"by-manager/brookfield_am.json"
+ },
+ {
+  "manager_slug":"focus_partners_australia",
+  "manager_name":"Focus Partners Australia",
+  "insight_count":18,
+  "latest_published_at":"2026-07-21T23:21:00+00:00",
+  "url":"by-manager/focus_partners_australia.json"
+ },
+ {
+  "manager_slug":"gf_asset_management",
+  "manager_name":"GF Asset Management",
+  "insight_count":18,
+  "latest_published_at":"2026-07-16T02:22:23+00:00",
+  "url":"by-manager/gf_asset_management.json"
+ },
+ {
+  "manager_slug":"katana",
+  "manager_name":"Katana Asset Management",
+  "insight_count":18,
+  "latest_published_at":"2026-07-13T05:54:56+00:00",
+  "url":"by-manager/katana.json"
+ },
+ {
+  "manager_slug":"wellington_management",
+  "manager_name":"Wellington Management",
+  "insight_count":18,
+  "latest_published_at":"2026-06-25T16:00:00+00:00",
+  "url":"by-manager/wellington_management.json"
+ },
+ {
+  "manager_slug":"carrara_capital",
+  "manager_name":"Carrara Capital",
+  "insight_count":17,
+  "latest_published_at":"2026-08-05T03:08:54+00:00",
+  "url":"by-manager/carrara_capital.json"
+ },
+ {
+  "manager_slug":"arcpoint_ocio",
+  "manager_name":"arcpoint OCIO",
+  "insight_count":17,
+  "latest_published_at":"2026-07-27T02:21:18+00:00",
+  "url":"by-manager/arcpoint_ocio.json"
+ },
+ {
+  "manager_slug":"eiger",
+  "manager_name":"Eiger Capital",
+  "insight_count":17,
+  "latest_published_at":"2026-07-15T03:03:11+00:00",
+  "url":"by-manager/eiger.json"
+ },
+ {
+  "manager_slug":"acy_securities",
+  "manager_name":"ACY Securities",
+  "insight_count":17,
+  "latest_published_at":"2026-06-25T06:45:31+00:00",
+  "url":"by-manager/acy_securities.json"
+ },
+ {
+  "manager_slug":"capital_com",
+  "manager_name":"capital.com",
+  "insight_count":16,
+  "latest_published_at":"2026-08-05T23:12:02+00:00",
+  "url":"by-manager/capital_com.json"
+ },
+ {
+  "manager_slug":"unified_capital_partners",
+  "manager_name":"Unified Capital Partners",
+  "insight_count":16,
+  "latest_published_at":"2026-08-03T02:55:35+00:00",
+  "url":"by-manager/unified_capital_partners.json"
+ },
+ {
+  "manager_slug":"generate_kiwisaver",
+  "manager_name":"Generate Kiwisaver",
+  "insight_count":16,
+  "latest_published_at":"2026-07-27T00:26:26+00:00",
+  "url":"by-manager/generate_kiwisaver.json"
+ },
+ {
+  "manager_slug":"australian_retirement_trust",
+  "manager_name":"Australian Retirement Trust",
+  "insight_count":16,
+  "latest_published_at":"2026-07-16T23:52:00+00:00",
+  "url":"by-manager/australian_retirement_trust.json"
+ },
+ {
+  "manager_slug":"morgan_stanley_im",
+  "manager_name":"Morgan Stanley IM",
+  "insight_count":16,
+  "latest_published_at":"2026-07-13T13:00:00+00:00",
+  "url":"by-manager/morgan_stanley_im.json"
+ },
+ {
+  "manager_slug":"amundi",
+  "manager_name":"Amundi",
+  "insight_count":16,
+  "latest_published_at":"2026-07-06T16:27:42+00:00",
+  "url":"by-manager/amundi.json"
+ },
+ {
+  "manager_slug":"suncorp",
+  "manager_name":"Suncorp",
+  "insight_count":15,
+  "latest_published_at":"2026-08-06T02:31:15+00:00",
+  "url":"by-manager/suncorp.json"
+ },
+ {
+  "manager_slug":"atfx_australia",
+  "manager_name":"ATFX Australia",
+  "insight_count":15,
+  "latest_published_at":"2026-08-06T02:19:17+00:00",
+  "url":"by-manager/atfx_australia.json"
+ },
+ {
+  "manager_slug":"fiig_securities",
+  "manager_name":"FIIG Securities",
+  "insight_count":15,
+  "latest_published_at":"2026-08-06T02:17:51+00:00",
+  "url":"by-manager/fiig_securities.json"
+ },
+ {
+  "manager_slug":"india_avenue_investment_management",
+  "manager_name":"India Avenue Investment Management",
+  "insight_count":15,
+  "latest_published_at":"2026-08-06T00:31:09+00:00",
+  "url":"by-manager/india_avenue_investment_management.json"
+ },
+ {
+  "manager_slug":"resolution_capital",
+  "manager_name":"Resolution Capital",
+  "insight_count":15,
+  "latest_published_at":"2026-08-03T23:16:11+00:00",
+  "url":"by-manager/resolution_capital.json"
+ },
+ {
+  "manager_slug":"ascalon_capital",
+  "manager_name":"Ascalon Capital",
+  "insight_count":15,
+  "latest_published_at":"2026-07-27T01:37:50+00:00",
+  "url":"by-manager/ascalon_capital.json"
+ },
+ {
+  "manager_slug":"spi_asset_management",
+  "manager_name":"SPI Asset Management",
+  "insight_count":15,
+  "latest_published_at":"2026-07-24T06:10:01+00:00",
+  "url":"by-manager/spi_asset_management.json"
+ },
+ {
+  "manager_slug":"fff_founders_100_etf",
+  "manager_name":"FFF - Founders 100 ETF",
+  "insight_count":15,
+  "latest_published_at":"2026-07-15T01:19:35+00:00",
+  "url":"by-manager/fff_founders_100_etf.json"
+ },
+ {
+  "manager_slug":"equity_trustees",
+  "manager_name":"Equity Trustees",
+  "insight_count":15,
+  "latest_published_at":"2026-07-09T01:35:45+00:00",
+  "url":"by-manager/equity_trustees.json"
+ },
+ {
+  "manager_slug":"cps_capital",
+  "manager_name":"CPS Capital",
+  "insight_count":15,
+  "latest_published_at":"2026-07-02T06:37:18+00:00",
+  "url":"by-manager/cps_capital.json"
+ },
+ {
+  "manager_slug":"challenger_capital",
+  "manager_name":"Challenger Capital",
+  "insight_count":14,
+  "latest_published_at":"2026-08-05T06:11:43+00:00",
+  "url":"by-manager/challenger_capital.json"
+ },
+ {
+  "manager_slug":"norges_bank",
+  "manager_name":"Norges Bank",
+  "insight_count":14,
+  "latest_published_at":"2026-07-24T03:00:00+00:00",
+  "url":"by-manager/norges_bank.json"
+ },
+ {
+  "manager_slug":"viola_private_wealth",
+  "manager_name":"Viola Private Wealth",
+  "insight_count":14,
+  "latest_published_at":"2026-07-24T01:48:48+00:00",
+  "url":"by-manager/viola_private_wealth.json"
+ },
+ {
+  "manager_slug":"prime_financial_group",
+  "manager_name":"Prime Financial Group",
+  "insight_count":14,
+  "latest_published_at":"2026-07-15T23:25:47+00:00",
+  "url":"by-manager/prime_financial_group.json"
+ },
+ {
+  "manager_slug":"fx_evolution",
+  "manager_name":"FX Evolution",
+  "insight_count":14,
+  "latest_published_at":"2026-07-10T02:06:51+00:00",
+  "url":"by-manager/fx_evolution.json"
+ },
+ {
+  "manager_slug":"lsn",
+  "manager_name":"LSN Capital Partners",
+  "insight_count":14,
+  "latest_published_at":"2026-07-01T00:00:00+00:00",
+  "url":"by-manager/lsn.json"
+ },
+ {
+  "manager_slug":"sharesies_nz",
+  "manager_name":"Sharesies NZ",
+  "insight_count":14,
+  "latest_published_at":"2026-06-10T17:30:00+00:00",
+  "url":"by-manager/sharesies_nz.json"
+ },
+ {
+  "manager_slug":"bank_of_china",
+  "manager_name":"Bank of China",
+  "insight_count":13,
+  "latest_published_at":"2026-08-07T02:18:14+00:00",
+  "url":"by-manager/bank_of_china.json"
+ },
+ {
+  "manager_slug":"optimal_economics",
+  "manager_name":"Optimal Economics",
+  "insight_count":13,
+  "latest_published_at":"2026-08-05T03:11:12+00:00",
+  "url":"by-manager/optimal_economics.json"
+ },
+ {
+  "manager_slug":"pepperstone",
+  "manager_name":"Pepperstone",
+  "insight_count":13,
+  "latest_published_at":"2026-07-14T01:22:24+00:00",
+  "url":"by-manager/pepperstone.json"
+ },
+ {
+  "manager_slug":"etoro_australia",
+  "manager_name":"eToro Australia",
+  "insight_count":13,
+  "latest_published_at":"2026-06-15T07:01:01+00:00",
+  "url":"by-manager/etoro_australia.json"
+ },
+ {
+  "manager_slug":"ebury_partners",
+  "manager_name":"Ebury Partners",
+  "insight_count":12,
+  "latest_published_at":"2026-08-05T06:17:35+00:00",
+  "url":"by-manager/ebury_partners.json"
+ },
+ {
+  "manager_slug":"quay_global_investors",
+  "manager_name":"Quay Global Investors",
+  "insight_count":12,
+  "latest_published_at":"2026-07-24T06:10:39+00:00",
+  "url":"by-manager/quay_global_investors.json"
+ },
+ {
+  "manager_slug":"unio_growth_partners",
+  "manager_name":"Unio Growth Partners",
+  "insight_count":12,
+  "latest_published_at":"2026-07-22T05:50:41+00:00",
+  "url":"by-manager/unio_growth_partners.json"
+ },
+ {
+  "manager_slug":"fat_tail_investment_research",
+  "manager_name":"Fat Tail Investment Research",
+  "insight_count":12,
+  "latest_published_at":"2026-06-10T06:22:20+00:00",
+  "url":"by-manager/fat_tail_investment_research.json"
+ },
+ {
+  "manager_slug":"seneca_financial",
+  "manager_name":"Seneca Financial",
+  "insight_count":12,
+  "latest_published_at":"2026-05-18T03:29:09+00:00",
+  "url":"by-manager/seneca_financial.json"
+ },
+ {
+  "manager_slug":"asxmarketgoss",
+  "manager_name":"ASXMarketGoss",
+  "insight_count":12,
+  "latest_published_at":"2026-05-11T23:00:00+00:00",
+  "url":"by-manager/asxmarketgoss.json"
+ },
+ {
+  "manager_slug":"leverage_shares",
+  "manager_name":"Leverage Shares",
+  "insight_count":11,
+  "latest_published_at":"2026-07-22T02:37:12+00:00",
+  "url":"by-manager/leverage_shares.json"
+ },
+ {
+  "manager_slug":"gerber_kawasaki",
+  "manager_name":"Gerber Kawasaki",
+  "insight_count":11,
+  "latest_published_at":"2026-07-21T04:20:56+00:00",
+  "url":"by-manager/gerber_kawasaki.json"
+ },
+ {
+  "manager_slug":"allenwargent_property_buyers",
+  "manager_name":"AllenWargent Property Buyers",
+  "insight_count":11,
+  "latest_published_at":"2026-07-21T02:04:28+00:00",
+  "url":"by-manager/allenwargent_property_buyers.json"
+ },
+ {
+  "manager_slug":"munjarra_capital",
+  "manager_name":"Munjarra Capital",
+  "insight_count":11,
+  "latest_published_at":"2026-07-20T05:55:15+00:00",
+  "url":"by-manager/munjarra_capital.json"
+ },
+ {
+  "manager_slug":"grey_street_partners",
+  "manager_name":"Grey Street Partners",
+  "insight_count":11,
+  "latest_published_at":"2026-07-15T01:17:47+00:00",
+  "url":"by-manager/grey_street_partners.json"
+ },
+ {
+  "manager_slug":"talaria_capital",
+  "manager_name":"Talaria Capital",
+  "insight_count":11,
+  "latest_published_at":"2026-07-13T00:35:56+00:00",
+  "url":"by-manager/talaria_capital.json"
+ },
+ {
+  "manager_slug":"medallion_financial",
+  "manager_name":"Medallion Financial",
+  "insight_count":11,
+  "latest_published_at":"2026-07-07T04:01:36+00:00",
+  "url":"by-manager/medallion_financial.json"
+ },
+ {
+  "manager_slug":"argonaut_funds_management",
+  "manager_name":"Argonaut Funds Management",
+  "insight_count":11,
+  "latest_published_at":"2026-06-24T06:36:23+00:00",
+  "url":"by-manager/argonaut_funds_management.json"
+ },
+ {
+  "manager_slug":"providence_wealth",
+  "manager_name":"Providence Wealth",
+  "insight_count":11,
+  "latest_published_at":"2026-06-11T01:23:49+00:00",
+  "url":"by-manager/providence_wealth.json"
+ },
+ {
+  "manager_slug":"apollo_crypto",
+  "manager_name":"Apollo Crypto",
+  "insight_count":10,
+  "latest_published_at":"2026-08-06T02:12:35+00:00",
+  "url":"by-manager/apollo_crypto.json"
+ },
+ {
+  "manager_slug":"cotality",
+  "manager_name":"Cotality",
+  "insight_count":10,
+  "latest_published_at":"2026-08-03T02:18:03+00:00",
+  "url":"by-manager/cotality.json"
+ },
+ {
+  "manager_slug":"thomson_reuters",
+  "manager_name":"Thomson Reuters",
+  "insight_count":10,
+  "latest_published_at":"2026-08-03T01:43:09+00:00",
+  "url":"by-manager/thomson_reuters.json"
+ },
+ {
+  "manager_slug":"challenger",
+  "manager_name":"Challenger",
+  "insight_count":10,
+  "latest_published_at":"2026-07-27T02:21:44+00:00",
+  "url":"by-manager/challenger.json"
+ },
+ {
+  "manager_slug":"income_asset_management",
+  "manager_name":"Income Asset Management",
+  "insight_count":10,
+  "latest_published_at":"2026-07-22T05:45:46+00:00",
+  "url":"by-manager/income_asset_management.json"
+ },
+ {
+  "manager_slug":"cfra",
+  "manager_name":"CFRA",
+  "insight_count":10,
+  "latest_published_at":"2026-07-22T01:18:24+00:00",
+  "url":"by-manager/cfra.json"
+ },
+ {
+  "manager_slug":"betashares_australian_quality_etf_aqlt",
+  "manager_name":"BetaShares Australian Quality ETF (AQLT)",
+  "insight_count":10,
+  "latest_published_at":"2026-07-07T02:11:29+00:00",
+  "url":"by-manager/betashares_australian_quality_etf_aqlt.json"
+ },
+ {
+  "manager_slug":"lazard_asset_management",
+  "manager_name":"Lazard Asset Management",
+  "insight_count":10,
+  "latest_published_at":"2026-07-07T01:50:21+00:00",
+  "url":"by-manager/lazard_asset_management.json"
+ },
+ {
+  "manager_slug":"ray_white",
+  "manager_name":"Ray White",
+  "insight_count":9,
+  "latest_published_at":"2026-08-07T06:17:14+00:00",
+  "url":"by-manager/ray_white.json"
+ },
+ {
+  "manager_slug":"hobson_wealth",
+  "manager_name":"Hobson Wealth",
+  "insight_count":9,
+  "latest_published_at":"2026-08-03T00:47:07+00:00",
+  "url":"by-manager/hobson_wealth.json"
+ },
+ {
+  "manager_slug":"citigroup",
+  "manager_name":"Citigroup",
+  "insight_count":9,
+  "latest_published_at":"2026-07-27T01:40:13+00:00",
+  "url":"by-manager/citigroup.json"
+ },
+ {
+  "manager_slug":"cerutty_macro_fund",
+  "manager_name":"Cerutty Macro Fund",
+  "insight_count":9,
+  "latest_published_at":"2026-07-23T06:41:00+00:00",
+  "url":"by-manager/cerutty_macro_fund.json"
+ },
+ {
+  "manager_slug":"thecrypto_land",
+  "manager_name":"TheCrypto.Land",
+  "insight_count":9,
+  "latest_published_at":"2026-07-22T06:15:59+00:00",
+  "url":"by-manager/thecrypto_land.json"
+ },
+ {
+  "manager_slug":"ninety_one",
+  "manager_name":"Ninety One",
+  "insight_count":9,
+  "latest_published_at":"2026-07-22T02:28:17+00:00",
+  "url":"by-manager/ninety_one.json"
+ },
+ {
+  "manager_slug":"alpha_insights",
+  "manager_name":"Alpha Insights",
+  "insight_count":9,
+  "latest_published_at":"2026-07-15T05:36:44+00:00",
+  "url":"by-manager/alpha_insights.json"
+ },
+ {
+  "manager_slug":"martin_place_securities",
+  "manager_name":"Martin Place Securities",
+  "insight_count":9,
+  "latest_published_at":"2026-07-14T02:24:23+00:00",
+  "url":"by-manager/martin_place_securities.json"
+ },
+ {
+  "manager_slug":"barker_wealth",
+  "manager_name":"Barker Wealth",
+  "insight_count":9,
+  "latest_published_at":"2026-06-22T06:40:52+00:00",
+  "url":"by-manager/barker_wealth.json"
+ },
+ {
+  "manager_slug":"tribeca_investment_partners",
+  "manager_name":"Tribeca Investment Partners",
+  "insight_count":9,
+  "latest_published_at":"2026-05-12T08:40:39+00:00",
+  "url":"by-manager/tribeca_investment_partners.json"
+ },
+ {
+  "manager_slug":"rest_super",
+  "manager_name":"Rest Super",
+  "insight_count":9,
+  "latest_published_at":"2026-05-04T03:27:38+00:00",
+  "url":"by-manager/rest_super.json"
+ },
+ {
+  "manager_slug":"reventon",
+  "manager_name":"Reventon",
+  "insight_count":8,
+  "latest_published_at":"2026-08-06T06:50:29+00:00",
+  "url":"by-manager/reventon.json"
+ },
+ {
+  "manager_slug":"fortitude_investment_partners",
+  "manager_name":"Fortitude Investment Partners",
+  "insight_count":8,
+  "latest_published_at":"2026-08-05T05:44:53+00:00",
+  "url":"by-manager/fortitude_investment_partners.json"
+ },
+ {
+  "manager_slug":"convera",
+  "manager_name":"Convera",
+  "insight_count":8,
+  "latest_published_at":"2026-08-03T06:15:55+00:00",
+  "url":"by-manager/convera.json"
+ },
+ {
+  "manager_slug":"antipodean_macro",
+  "manager_name":"Antipodean Macro",
+  "insight_count":8,
+  "latest_published_at":"2026-07-27T07:31:15+00:00",
+  "url":"by-manager/antipodean_macro.json"
+ },
+ {
+  "manager_slug":"la_trobe_financial",
+  "manager_name":"La Trobe Financial",
+  "insight_count":8,
+  "latest_published_at":"2026-07-27T06:44:53+00:00",
+  "url":"by-manager/la_trobe_financial.json"
+ },
+ {
+  "manager_slug":"msquared_capital",
+  "manager_name":"Msquared Capital",
+  "insight_count":8,
+  "latest_published_at":"2026-07-24T01:05:26+00:00",
+  "url":"by-manager/msquared_capital.json"
+ },
+ {
+  "manager_slug":"geraf",
+  "manager_name":"GERAF",
+  "insight_count":8,
+  "latest_published_at":"2026-07-20T06:00:40+00:00",
+  "url":"by-manager/geraf.json"
+ },
+ {
+  "manager_slug":"axa_im",
+  "manager_name":"AXA IM",
+  "insight_count":8,
+  "latest_published_at":"2026-07-01T05:00:00+00:00",
+  "url":"by-manager/axa_im.json"
+ },
+ {
+  "manager_slug":"andrew_musgrave",
+  "manager_name":"Andrew Musgrave",
+  "insight_count":8,
+  "latest_published_at":"2026-05-22T04:00:00+00:00",
+  "url":"by-manager/andrew_musgrave.json"
+ },
+ {
+  "manager_slug":"canavan_capital_partners",
+  "manager_name":"Canavan Capital Partners",
+  "insight_count":7,
+  "latest_published_at":"2026-08-05T05:44:28+00:00",
+  "url":"by-manager/canavan_capital_partners.json"
+ },
+ {
+  "manager_slug":"rixon_capital",
+  "manager_name":"Rixon Capital",
+  "insight_count":7,
+  "latest_published_at":"2026-08-05T01:05:04+00:00",
+  "url":"by-manager/rixon_capital.json"
+ },
+ {
+  "manager_slug":"sharpbridge_funds_management",
+  "manager_name":"Sharpbridge Funds Management",
+  "insight_count":7,
+  "latest_published_at":"2026-07-27T06:39:46+00:00",
+  "url":"by-manager/sharpbridge_funds_management.json"
+ },
+ {
+  "manager_slug":"tastylive",
+  "manager_name":"tastylive",
+  "insight_count":7,
+  "latest_published_at":"2026-07-24T02:27:39+00:00",
+  "url":"by-manager/tastylive.json"
+ },
+ {
+  "manager_slug":"fixed_income_solutions",
+  "manager_name":"Fixed Income Solutions",
+  "insight_count":7,
+  "latest_published_at":"2026-07-24T00:40:19+00:00",
+  "url":"by-manager/fixed_income_solutions.json"
+ },
+ {
+  "manager_slug":"focus_property_group",
+  "manager_name":"Focus Property Group",
+  "insight_count":7,
+  "latest_published_at":"2026-07-23T07:58:41+00:00",
+  "url":"by-manager/focus_property_group.json"
+ },
+ {
+  "manager_slug":"ma_financial",
+  "manager_name":"MA Financial",
+  "insight_count":7,
+  "latest_published_at":"2026-07-21T01:30:43+00:00",
+  "url":"by-manager/ma_financial.json"
+ },
+ {
+  "manager_slug":"novus_capital",
+  "manager_name":"Novus Capital",
+  "insight_count":7,
+  "latest_published_at":"2026-07-20T02:09:45+00:00",
+  "url":"by-manager/novus_capital.json"
+ },
+ {
+  "manager_slug":"deutsche_bank",
+  "manager_name":"Deutsche Bank",
+  "insight_count":7,
+  "latest_published_at":"2026-07-16T02:21:15+00:00",
+  "url":"by-manager/deutsche_bank.json"
+ },
+ {
+  "manager_slug":"spectrum_wealth_partners",
+  "manager_name":"Spectrum Wealth Partners",
+  "insight_count":7,
+  "latest_published_at":"2026-07-14T05:46:33+00:00",
+  "url":"by-manager/spectrum_wealth_partners.json"
+ },
+ {
+  "manager_slug":"allan_gray",
+  "manager_name":"Allan Gray Australia",
+  "insight_count":7,
+  "latest_published_at":"2026-07-13T01:21:34+00:00",
+  "url":"by-manager/allan_gray.json"
+ },
+ {
+  "manager_slug":"future_generation_australia_limited",
+  "manager_name":"Future Generation Australia Limited",
+  "insight_count":7,
+  "latest_published_at":"2026-07-10T02:14:05+00:00",
+  "url":"by-manager/future_generation_australia_limited.json"
+ },
+ {
+  "manager_slug":"vertium",
+  "manager_name":"Vertium",
+  "insight_count":7,
+  "latest_published_at":"2026-07-07T02:39:11+00:00",
+  "url":"by-manager/vertium.json"
+ },
+ {
+  "manager_slug":"equitable_investments",
+  "manager_name":"Equitable Investments",
+  "insight_count":7,
+  "latest_published_at":"2026-07-07T01:41:20+00:00",
+  "url":"by-manager/equitable_investments.json"
+ },
+ {
+  "manager_slug":"stocks_down_under",
+  "manager_name":"Stocks Down Under",
+  "insight_count":7,
+  "latest_published_at":"2026-07-03T01:33:21+00:00",
+  "url":"by-manager/stocks_down_under.json"
+ },
+ {
+  "manager_slug":"nz_herald",
+  "manager_name":"NZ Herald",
+  "insight_count":7,
+  "latest_published_at":"2026-05-10T17:00:00+00:00",
+  "url":"by-manager/nz_herald.json"
+ },
+ {
+  "manager_slug":"kpler",
+  "manager_name":"Kpler",
+  "insight_count":6,
+  "latest_published_at":"2026-08-06T02:15:52+00:00",
+  "url":"by-manager/kpler.json"
+ },
+ {
+  "manager_slug":"monoova",
+  "manager_name":"Monoova",
+  "insight_count":6,
+  "latest_published_at":"2026-07-21T05:53:48+00:00",
+  "url":"by-manager/monoova.json"
+ },
+ {
+  "manager_slug":"hsbc",
+  "manager_name":"HSBC",
+  "insight_count":6,
+  "latest_published_at":"2026-07-21T04:20:36+00:00",
+  "url":"by-manager/hsbc.json"
+ },
+ {
+  "manager_slug":"investsmart",
+  "manager_name":"InvestSMART",
+  "insight_count":6,
+  "latest_published_at":"2026-07-17T02:51:09+00:00",
+  "url":"by-manager/investsmart.json"
+ },
+ {
+  "manager_slug":"sonas_wealth",
+  "manager_name":"Sonas Wealth",
+  "insight_count":6,
+  "latest_published_at":"2026-07-17T02:25:55+00:00",
+  "url":"by-manager/sonas_wealth.json"
+ },
+ {
+  "manager_slug":"interactive_brokers",
+  "manager_name":"Interactive Brokers",
+  "insight_count":6,
+  "latest_published_at":"2026-07-16T02:07:51+00:00",
+  "url":"by-manager/interactive_brokers.json"
+ },
+ {
+  "manager_slug":"moody_s_ratings",
+  "manager_name":"Moody's Ratings",
+  "insight_count":6,
+  "latest_published_at":"2026-07-10T02:47:31+00:00",
+  "url":"by-manager/moody_s_ratings.json"
+ },
+ {
+  "manager_slug":"stellan_capital",
+  "manager_name":"Stellan Capital",
+  "insight_count":6,
+  "latest_published_at":"2026-06-24T06:24:39+00:00",
+  "url":"by-manager/stellan_capital.json"
+ },
+ {
+  "manager_slug":"vinva",
+  "manager_name":"Vinva Investment Management",
+  "insight_count":6,
+  "latest_published_at":"2026-06-01T20:00:00+00:00",
+  "url":"by-manager/vinva.json"
+ },
+ {
+  "manager_slug":"smart_happy_money",
+  "manager_name":"Smart Happy Money",
+  "insight_count":5,
+  "latest_published_at":"2026-08-06T06:49:52+00:00",
+  "url":"by-manager/smart_happy_money.json"
+ },
+ {
+  "manager_slug":"zagga",
+  "manager_name":"Zagga",
+  "insight_count":5,
+  "latest_published_at":"2026-08-06T06:48:49+00:00",
+  "url":"by-manager/zagga.json"
+ },
+ {
+  "manager_slug":"ngs_super",
+  "manager_name":"NGS Super",
+  "insight_count":5,
+  "latest_published_at":"2026-08-06T00:00:00+00:00",
+  "url":"by-manager/ngs_super.json"
+ },
+ {
+  "manager_slug":"centuria_office_reit",
+  "manager_name":"Centuria Office REIT",
+  "insight_count":5,
+  "latest_published_at":"2026-08-05T01:02:13+00:00",
+  "url":"by-manager/centuria_office_reit.json"
+ },
+ {
+  "manager_slug":"housing_industry_association",
+  "manager_name":"Housing Industry Association",
+  "insight_count":5,
+  "latest_published_at":"2026-07-23T07:37:53+00:00",
+  "url":"by-manager/housing_industry_association.json"
+ },
+ {
+  "manager_slug":"blueberry_markets",
+  "manager_name":"Blueberry Markets",
+  "insight_count":5,
+  "latest_published_at":"2026-07-15T02:17:52+00:00",
+  "url":"by-manager/blueberry_markets.json"
+ },
+ {
+  "manager_slug":"vantage_markets",
+  "manager_name":"Vantage Markets",
+  "insight_count":5,
+  "latest_published_at":"2026-07-14T01:23:24+00:00",
+  "url":"by-manager/vantage_markets.json"
+ },
+ {
+  "manager_slug":"market_economics",
+  "manager_name":"Market Economics",
+  "insight_count":5,
+  "latest_published_at":"2026-07-13T06:05:30+00:00",
+  "url":"by-manager/market_economics.json"
+ },
+ {
+  "manager_slug":"barclays_ib",
+  "manager_name":"Barclays IB",
+  "insight_count":5,
+  "latest_published_at":"2026-07-09T17:00:00+00:00",
+  "url":"by-manager/barclays_ib.json"
+ },
+ {
+  "manager_slug":"enhanced_asset_management",
+  "manager_name":"Enhanced Asset Management",
+  "insight_count":4,
+  "latest_published_at":"2026-08-07T02:28:49+00:00",
+  "url":"by-manager/enhanced_asset_management.json"
+ },
+ {
+  "manager_slug":"aml3d",
+  "manager_name":"AML3D",
+  "insight_count":4,
+  "latest_published_at":"2026-07-27T06:43:09+00:00",
+  "url":"by-manager/aml3d.json"
+ },
+ {
+  "manager_slug":"invest_with_mitch",
+  "manager_name":"Invest With Mitch",
+  "insight_count":4,
+  "latest_published_at":"2026-07-23T01:45:07+00:00",
+  "url":"by-manager/invest_with_mitch.json"
+ },
+ {
+  "manager_slug":"silver_mines_ltd",
+  "manager_name":"Silver Mines Ltd",
+  "insight_count":4,
+  "latest_published_at":"2026-07-22T02:40:49+00:00",
+  "url":"by-manager/silver_mines_ltd.json"
+ },
+ {
+  "manager_slug":"aura_group",
+  "manager_name":"Aura Group",
+  "insight_count":4,
+  "latest_published_at":"2026-07-21T06:42:07+00:00",
+  "url":"by-manager/aura_group.json"
+ },
+ {
+  "manager_slug":"xanalysts",
+  "manager_name":"Xanalysts",
+  "insight_count":4,
+  "latest_published_at":"2026-07-14T06:27:52+00:00",
+  "url":"by-manager/xanalysts.json"
+ },
+ {
+  "manager_slug":"pointer",
+  "manager_name":"Pointer",
+  "insight_count":4,
+  "latest_published_at":"2026-07-13T06:14:43+00:00",
+  "url":"by-manager/pointer.json"
+ },
+ {
+  "manager_slug":"minterellison",
+  "manager_name":"MinterEllison",
+  "insight_count":4,
+  "latest_published_at":"2026-07-13T06:01:06+00:00",
+  "url":"by-manager/minterellison.json"
+ },
+ {
+  "manager_slug":"cryosite",
+  "manager_name":"Cryosite",
+  "insight_count":4,
+  "latest_published_at":"2026-07-13T01:03:22+00:00",
+  "url":"by-manager/cryosite.json"
+ },
+ {
+  "manager_slug":"red_leaf_securities",
+  "manager_name":"Red Leaf Securities",
+  "insight_count":4,
+  "latest_published_at":"2026-07-10T01:35:10+00:00",
+  "url":"by-manager/red_leaf_securities.json"
+ },
+ {
+  "manager_slug":"superratings",
+  "manager_name":"SuperRatings",
+  "insight_count":4,
+  "latest_published_at":"2026-07-09T06:33:26+00:00",
+  "url":"by-manager/superratings.json"
+ },
+ {
+  "manager_slug":"navigate_commodities",
+  "manager_name":"Navigate Commodities",
+  "insight_count":4,
+  "latest_published_at":"2026-07-08T06:28:16+00:00",
+  "url":"by-manager/navigate_commodities.json"
+ },
+ {
+  "manager_slug":"linn_group",
+  "manager_name":"Linn Group",
+  "insight_count":4,
+  "latest_published_at":"2026-06-18T00:24:38+00:00",
+  "url":"by-manager/linn_group.json"
+ },
+ {
+  "manager_slug":"fox_and_hare_financial_advice",
+  "manager_name":"Fox & Hare Financial Advice",
+  "insight_count":3,
+  "latest_published_at":"2026-08-03T02:17:03+00:00",
+  "url":"by-manager/fox_and_hare_financial_advice.json"
+ },
+ {
+  "manager_slug":"abs",
+  "manager_name":"ABS",
+  "insight_count":3,
+  "latest_published_at":"2026-07-23T06:16:44+00:00",
+  "url":"by-manager/abs.json"
+ },
+ {
+  "manager_slug":"green360_technologies",
+  "manager_name":"Green360 Technologies",
+  "insight_count":3,
+  "latest_published_at":"2026-07-23T01:48:07+00:00",
+  "url":"by-manager/green360_technologies.json"
+ },
+ {
+  "manager_slug":"stake",
+  "manager_name":"Stake",
+  "insight_count":3,
+  "latest_published_at":"2026-07-20T01:37:00+00:00",
+  "url":"by-manager/stake.json"
+ },
+ {
+  "manager_slug":"lumisara",
+  "manager_name":"Lumisara",
+  "insight_count":3,
+  "latest_published_at":"2026-07-02T01:28:51+00:00",
+  "url":"by-manager/lumisara.json"
+ },
+ {
+  "manager_slug":"avari_capital_partners",
+  "manager_name":"AVARI Capital Partners",
+  "insight_count":3,
+  "latest_published_at":"2026-06-24T01:32:24+00:00",
+  "url":"by-manager/avari_capital_partners.json"
+ },
+ {
+  "manager_slug":"tortoise_capital",
+  "manager_name":"Tortoise Capital",
+  "insight_count":3,
+  "latest_published_at":"2026-06-19T00:28:44+00:00",
+  "url":"by-manager/tortoise_capital.json"
+ },
+ {
+  "manager_slug":"fincap",
+  "manager_name":"FinCap",
+  "insight_count":3,
+  "latest_published_at":"2026-06-18T06:28:49+00:00",
+  "url":"by-manager/fincap.json"
+ },
+ {
+  "manager_slug":"padua_solutions",
+  "manager_name":"Padua Solutions",
+  "insight_count":2,
+  "latest_published_at":"2026-08-03T06:17:58+00:00",
+  "url":"by-manager/padua_solutions.json"
+ },
+ {
+  "manager_slug":"pentanet",
+  "manager_name":"Pentanet",
+  "insight_count":2,
+  "latest_published_at":"2026-08-03T06:15:18+00:00",
+  "url":"by-manager/pentanet.json"
+ },
+ {
+  "manager_slug":"the_investment_league",
+  "manager_name":"The Investment League",
+  "insight_count":2,
+  "latest_published_at":"2026-07-24T06:11:16+00:00",
+  "url":"by-manager/the_investment_league.json"
+ },
+ {
+  "manager_slug":"value3",
+  "manager_name":"value3",
+  "insight_count":2,
+  "latest_published_at":"2026-07-16T02:19:47+00:00",
+  "url":"by-manager/value3.json"
+ },
+ {
+  "manager_slug":"ipartners",
+  "manager_name":"iPartners",
+  "insight_count":2,
+  "latest_published_at":"2026-07-16T01:54:55+00:00",
+  "url":"by-manager/ipartners.json"
+ },
+ {
+  "manager_slug":"comet_ridge",
+  "manager_name":"Comet Ridge",
+  "insight_count":2,
+  "latest_published_at":"2026-07-07T03:08:47+00:00",
+  "url":"by-manager/comet_ridge.json"
+ },
+ {
+  "manager_slug":"teaminvest_private_tip_group",
+  "manager_name":"Teaminvest Private (TIP Group)",
+  "insight_count":2,
+  "latest_published_at":"2026-07-06T06:43:17+00:00",
+  "url":"by-manager/teaminvest_private_tip_group.json"
+ },
+ {
+  "manager_slug":"alvia_asset_partners",
+  "manager_name":"Alvia Asset Partners",
+  "insight_count":2,
+  "latest_published_at":"2026-07-01T02:34:33+00:00",
+  "url":"by-manager/alvia_asset_partners.json"
+ },
+ {
+  "manager_slug":"maxmine",
+  "manager_name":"MaxMine",
+  "insight_count":1,
+  "latest_published_at":"2026-08-03T06:17:25+00:00",
+  "url":"by-manager/maxmine.json"
+ },
+ {
+  "manager_slug":"soul_patts",
+  "manager_name":"Washington H. Soul Pattinson",
+  "insight_count":1,
+  "latest_published_at":"2026-07-23T00:00:00+00:00",
+  "url":"by-manager/soul_patts.json"
+ },
+ {
+  "manager_slug":"switzer",
+  "manager_name":"Switzer",
+  "insight_count":1,
+  "latest_published_at":"2026-07-21T06:58:07+00:00",
+  "url":"by-manager/switzer.json"
+ },
+ {
+  "manager_slug":"the_wealth_designers",
+  "manager_name":"The Wealth Designers",
+  "insight_count":1,
+  "latest_published_at":"2026-07-16T02:28:29+00:00",
+  "url":"by-manager/the_wealth_designers.json"
+ },
+ {
+  "manager_slug":"cyclopharm_limited",
+  "manager_name":"Cyclopharm Limited",
+  "insight_count":1,
+  "latest_published_at":"2026-07-15T05:45:43+00:00",
+  "url":"by-manager/cyclopharm_limited.json"
+ },
+ {
+  "manager_slug":"red_willow_super",
+  "manager_name":"Red Willow Super",
+  "insight_count":1,
+  "latest_published_at":"2026-07-14T06:11:53+00:00",
+  "url":"by-manager/red_willow_super.json"
+ },
+ {
+  "manager_slug":"recce_pharmaceuticals",
+  "manager_name":"Recce Pharmaceuticals",
+  "insight_count":1,
+  "latest_published_at":"2026-07-14T05:43:21+00:00",
+  "url":"by-manager/recce_pharmaceuticals.json"
+ },
+ {
+  "manager_slug":"avecho_biotechnology",
+  "manager_name":"Avecho Biotechnology",
+  "insight_count":1,
+  "latest_published_at":"2026-07-14T05:38:09+00:00",
+  "url":"by-manager/avecho_biotechnology.json"
+ },
+ {
+  "manager_slug":"banjo_loans",
+  "manager_name":"Banjo Loans",
+  "insight_count":1,
+  "latest_published_at":"2026-07-13T06:00:32+00:00",
+  "url":"by-manager/banjo_loans.json"
+ },
+ {
+  "manager_slug":"banyantree_investment_group",
+  "manager_name":"Banyantree Investment Group",
+  "insight_count":1,
+  "latest_published_at":"2026-07-13T02:41:55+00:00",
+  "url":"by-manager/banyantree_investment_group.json"
+ },
+ {
+  "manager_slug":"bravura_solutions",
+  "manager_name":"Bravura Solutions",
+  "insight_count":1,
+  "latest_published_at":"2026-07-13T02:34:08+00:00",
+  "url":"by-manager/bravura_solutions.json"
+ },
+ {
+  "manager_slug":"bell_financial_group",
+  "manager_name":"Bell Financial Group",
+  "insight_count":1,
+  "latest_published_at":"2026-07-08T06:30:11+00:00",
+  "url":"by-manager/bell_financial_group.json"
+ },
+ {
+  "manager_slug":"px_partners",
+  "manager_name":"PX Partners",
+  "insight_count":1,
+  "latest_published_at":"2026-06-25T02:06:08+00:00",
+  "url":"by-manager/px_partners.json"
+ },
+ {
+  "manager_slug":"whitefield",
+  "manager_name":"Whitefield Industrials",
+  "insight_count":1,
+  "latest_published_at":"2026-06-09T01:27:13+00:00",
+  "url":"by-manager/whitefield.json"
+ }
+]
