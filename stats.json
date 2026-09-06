@@ -1,0 +1,177 @@
+{
+  "generated_at": "2026-09-06T00:57:42.057872+00:00",
+  "counts": {
+    "companies": 200,
+    "announcements": 31882,
+    "announcements_price_sensitive": 4895,
+    "director_trades": 2368,
+    "substantial_holders": 5083,
+    "short_interest_days": 256,
+    "holdings": 14740,
+    "podcast_insights": 71389,
+    "podcast_episodes": 5917,
+    "livewire_videos": 34,
+    "livewire_picks": 362,
+    "price_bars": 4693,
+    "priced_codes": 196,
+    "dividends": 1455,
+    "news_articles": 125
+  },
+  "latest": {
+    "short_interest_date": "2026-08-21",
+    "last_announcement_at": "2026-08-27T04:40:00+00:00",
+    "price_date": "2026-08-27"
+  },
+  "last_runs": [
+    {
+      "source": "dividends_header",
+      "last_finished_at": "2026-08-27T04:49:22.322510+00:00"
+    },
+    {
+      "source": "news_rss",
+      "last_finished_at": "2026-08-27T04:49:24.104178+00:00"
+    },
+    {
+      "source": "asx_announcements",
+      "last_finished_at": "2026-08-27T04:46:21.579121+00:00"
+    },
+    {
+      "source": "asic_short_interest",
+      "last_finished_at": "2026-08-27T04:49:18.887140+00:00"
+    },
+    {
+      "source": "substantial_holders_header",
+      "last_finished_at": "2026-08-27T04:49:21.692654+00:00"
+    },
+    {
+      "source": "prices",
+      "last_finished_at": "2026-08-27T04:51:13.582250+00:00"
+    },
+    {
+      "source": "director_trades_header",
+      "last_finished_at": "2026-08-27T04:49:19.871235+00:00"
+    }
+  ],
+  "freshness": {
+    "computed_at": "2026-09-06T01:35:38.331528+00:00",
+    "sources": {
+      "announcements": {
+        "label": "Announcements",
+        "owner": "ci",
+        "basis": "content",
+        "rows": 32477,
+        "as_of": "2026-09-04T09:17:00+00:00",
+        "age_days": 1.7,
+        "sla_days": 4,
+        "stale": false,
+        "missing": false
+      },
+      "short_interest": {
+        "label": "Short interest",
+        "owner": "ci",
+        "basis": "content",
+        "rows": 187,
+        "as_of": "2026-08-31",
+        "age_days": 6.1,
+        "sla_days": 10,
+        "stale": false,
+        "missing": false
+      },
+      "director_trades": {
+        "label": "Director trades",
+        "owner": "ci",
+        "basis": "content",
+        "rows": 2496,
+        "as_of": "2026-09-04T09:09:00+00:00",
+        "age_days": 1.7,
+        "sla_days": 14,
+        "stale": false,
+        "missing": false
+      },
+      "substantial_holders": {
+        "label": "Substantial holders",
+        "owner": "ci",
+        "basis": "content",
+        "rows": 5158,
+        "as_of": "2026-09-04T08:36:00+00:00",
+        "age_days": 1.7,
+        "sla_days": 14,
+        "stale": false,
+        "missing": false
+      },
+      "prices": {
+        "label": "Prices",
+        "owner": "ci",
+        "basis": "content",
+        "rows": 195,
+        "as_of": "2026-09-04",
+        "age_days": 2.1,
+        "sla_days": 5,
+        "stale": false,
+        "missing": false
+      },
+      "dividends": {
+        "label": "Dividends",
+        "owner": "ci",
+        "basis": "content",
+        "rows": 1478,
+        "as_of": "2026-09-04T07:07:00+00:00",
+        "age_days": 1.8,
+        "sla_days": 30,
+        "stale": false,
+        "missing": false
+      },
+      "news": {
+        "label": "News",
+        "owner": "ci",
+        "basis": "content",
+        "rows": 125,
+        "as_of": "2026-09-05T21:35:54+00:00",
+        "age_days": 0.2,
+        "sla_days": 7,
+        "stale": false,
+        "missing": false
+      },
+      "holdings": {
+        "label": "Manager holdings",
+        "owner": "local",
+        "basis": "file",
+        "rows": 14740,
+        "as_of": "2026-09-05T14:51:45+10:00",
+        "age_days": 0.9,
+        "sla_days": 45,
+        "stale": false,
+        "missing": false
+      },
+      "podcast_insights": {
+        "label": "Podcast insights",
+        "owner": "local",
+        "basis": "content",
+        "rows": 71389,
+        "as_of": "2026-09-05T00:00:00+00:00",
+        "age_days": 1.1,
+        "sla_days": 14,
+        "stale": false,
+        "missing": false
+      },
+      "livewire_insights": {
+        "label": "Livewire insights",
+        "owner": "local",
+        "basis": "content",
+        "rows": 34,
+        "as_of": "2026-07-05",
+        "age_days": 63.1,
+        "sla_days": 21,
+        "stale": true,
+        "missing": false
+      }
+    }
+  },
+  "heartbeats": {
+    "local_refresh": {
+      "at": "2026-09-06T01:32:40.611434+00:00",
+      "podcast_insights_added": 189,
+      "holdings_added": 0
+    }
+  }
+}

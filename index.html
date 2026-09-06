@@ -1,0 +1,94 @@
+<!doctype html><html lang=en><meta charset=utf-8>
+<meta name=viewport content='width=device-width,initial-scale=1'>
+<title>pmquotes-data</title>
+<style>
+body{max-width:60rem;margin:3rem auto;padding:0 1.25rem;
+font:15px/1.6 ui-monospace,SFMono-Regular,Menlo,monospace;color:#111;background:#fff}
+h1{font-size:1.3rem;margin:0 0 .25rem} h2{font-size:1rem;margin:2.5rem 0 .75rem;
+border-bottom:1px solid #ddd;padding-bottom:.3rem}
+a{color:#0645ad} code{background:#f4f4f4;padding:.1rem .3rem;border-radius:3px}
+ul{list-style:none;padding:0} li{margin:.6rem 0}
+.s{color:#888;font-size:.85em} .d{color:#555;font-size:.85em}
+.m{color:#555;margin:.25rem 0 1.5rem}
+.g{display:flex;flex-wrap:wrap;gap:.4rem} .g a{background:#f4f4f4;padding:.2rem .5rem;
+border-radius:3px;text-decoration:none;font-size:.85em}
+pre{background:#f4f4f4;padding:.85rem;overflow-x:auto;border-radius:4px;font-size:.85em}
+@media(prefers-color-scheme:dark){body{background:#111;color:#e6e6e6}
+a{color:#7ab7ff}code,pre,.g a{background:#1e1e1e}h2{border-color:#333}
+.d,.m{color:#aaa}}
+</style>
+<h1>pmquotes-data</h1>
+<p class=m>Static, public mirror of Bowerbird's Australian equity fund-manager podcast insights. No auth, no API key.<br><b>71,389</b> rows &middot; 2013-05-01 to 2026-09-05 &middot; 198 ASX codes &middot; 451 managers &middot; generated 2026-09-06T01:45:44Z</p>
+<p><a href="README.md">README</a> with curl, pandas and Excel examples &middot; <a href="https://github.com/duriandaniel/pmquotes-data">repository</a></p>
+<h2>Core files</h2><ul>
+<li><a href="latest-30d.json"><code>latest-30d.json</code></a> <span class="s">15.7 MB</span><br><span class="d">Last 30 days, newest first. Start here.</span></li>
+
+<li><a href="insights.json.gz"><code>insights.json.gz</code></a> <span class="s">23.9 MB</span><br><span class="d">Every row, pre-gzipped. Always present.</span></li>
+<li><a href="insights_parts.json"><code>insights_parts.json</code></a> <span class="s">251 B</span><br><span class="d">Manifest of insights/part-NNNN.json shards (full set, stable URLs, size-proof). Preferred for programmatic consumers.</span></li>
+<li><a href="insights.csv"><code>insights.csv</code></a> <span class="s">87.1 MB</span><br><span class="d">Every row as CSV.</span></li>
+<li><a href="insights.csv.gz"><code>insights.csv.gz</code></a> <span class="s">22.4 MB</span><br><span class="d">Same, pre-gzipped.</span></li>
+<li><a href="tickers.json"><code>tickers.json</code></a> <span class="s">32 KB</span><br><span class="d">Index of ASX codes with counts and shard URLs.</span></li>
+<li><a href="managers.json"><code>managers.json</code></a> <span class="s">86 KB</span><br><span class="d">Index of managers with counts and shard URLs.</span></li>
+
+</ul>
+<h2>Most covered ASX codes</h2><div class=g>
+<a href="by-ticker/BHP.json">BHP <span class=s>862</span></a>
+<a href="by-ticker/CSL.json">CSL <span class=s>757</span></a>
+<a href="by-ticker/CBA.json">CBA <span class=s>635</span></a>
+<a href="by-ticker/RIO.json">RIO <span class=s>393</span></a>
+<a href="by-ticker/MQG.json">MQG <span class=s>388</span></a>
+<a href="by-ticker/GMG.json">GMG <span class=s>329</span></a>
+<a href="by-ticker/RMD.json">RMD <span class=s>324</span></a>
+<a href="by-ticker/WTC.json">WTC <span class=s>316</span></a>
+<a href="by-ticker/STO.json">STO <span class=s>314</span></a>
+<a href="by-ticker/NAB.json">NAB <span class=s>302</span></a>
+<a href="by-ticker/JHX.json">JHX <span class=s>300</span></a>
+<a href="by-ticker/WDS.json">WDS <span class=s>287</span></a>
+<a href="by-ticker/ALL.json">ALL <span class=s>274</span></a>
+<a href="by-ticker/WES.json">WES <span class=s>268</span></a>
+<a href="by-ticker/TLS.json">TLS <span class=s>264</span></a>
+<a href="by-ticker/WOW.json">WOW <span class=s>253</span></a>
+<a href="by-ticker/WBC.json">WBC <span class=s>234</span></a>
+<a href="by-ticker/XRO.json">XRO <span class=s>224</span></a>
+<a href="by-ticker/ANZ.json">ANZ <span class=s>215</span></a>
+<a href="by-ticker/MIN.json">MIN <span class=s>201</span></a>
+<a href="by-ticker/REA.json">REA <span class=s>199</span></a>
+<a href="by-ticker/FMG.json">FMG <span class=s>198</span></a>
+<a href="by-ticker/COH.json">COH <span class=s>191</span></a>
+<a href="by-ticker/A2M.json">A2M <span class=s>188</span></a>
+<a href="by-ticker/CAR.json">CAR <span class=s>179</span></a>
+</div><p class=m>Every code: <a href="tickers.json">tickers.json</a></p>
+<h2>Most covered managers</h2><div class=g>
+<a href="by-manager/perennial.json">Perennial Value Management <span class=s>4801</span></a>
+<a href="by-manager/salt.json">Salt Funds Management <span class=s>3628</span></a>
+<a href="by-manager/cooper_investors.json">Cooper Investors <span class=s>2287</span></a>
+<a href="by-manager/milford.json">Milford Asset Management <span class=s>2238</span></a>
+<a href="by-manager/spheria.json">Spheria Asset Management <span class=s>2207</span></a>
+<a href="by-manager/devon.json">Devon Funds Management <span class=s>2154</span></a>
+<a href="by-manager/prime_value.json">Prime Value Asset Management <span class=s>2110</span></a>
+<a href="by-manager/magellan.json">Magellan Asset Management <span class=s>1889</span></a>
+<a href="by-manager/mpc_markets.json">MPC Markets <span class=s>1863</span></a>
+<a href="by-manager/sage_capital.json">Sage Capital <span class=s>1403</span></a>
+<a href="by-manager/commsec.json">CommSec <span class=s>1397</span></a>
+<a href="by-manager/wilson.json">Wilson Asset Management <span class=s>1377</span></a>
+<a href="by-manager/quest.json">Quest Asset Partners <span class=s>1312</span></a>
+<a href="by-manager/bronte_capital.json">Bronte Capital <span class=s>1248</span></a>
+<a href="by-manager/greencape.json">Greencape Capital <span class=s>1197</span></a>
+<a href="by-manager/glenmore.json">Glenmore Asset Management <span class=s>1112</span></a>
+<a href="by-manager/affluence.json">Affluence Funds Management <span class=s>937</span></a>
+<a href="by-manager/equity_mates_media.json">Equity Mates Media <span class=s>895</span></a>
+<a href="by-manager/sandon_capital.json">Sandon Capital <span class=s>871</span></a>
+<a href="by-manager/l1_capital.json">L1 Capital <span class=s>808</span></a>
+<a href="by-manager/regal.json">Regal Funds Management <span class=s>779</span></a>
+<a href="by-manager/fairview.json">Fairview Equity Partners <span class=s>722</span></a>
+<a href="by-manager/microequities_asset_management.json">Microequities Asset Management <span class=s>706</span></a>
+<a href="by-manager/insignia_mlc.json">Insignia Financial (MLC) <span class=s>693</span></a>
+<a href="by-manager/pendal.json">Pendal Group <span class=s>654</span></a>
+</div><p class=m>Every manager: <a href="managers.json">managers.json</a></p>
+<h2>Quick start</h2><pre>
+curl -sSL https://duriandaniel.github.io/pmquotes-data/latest-30d.json -o latest.json
+curl -sSL https://duriandaniel.github.io/pmquotes-data/insights.csv.gz | gunzip &gt; insights.csv
+
+import pandas as pd
+df = pd.read_csv(&quot;https://duriandaniel.github.io/pmquotes-data/insights.csv.gz&quot;)
+</pre>

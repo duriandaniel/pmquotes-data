@@ -1,0 +1,1388 @@
+[
+ {
+  "asx_code":"BHP",
+  "company_name":"BHP",
+  "insight_count":862,
+  "latest_published_at":"2026-09-04T06:43:36+00:00",
+  "url":"by-ticker/BHP.json"
+ },
+ {
+  "asx_code":"CSL",
+  "company_name":"CSL",
+  "insight_count":757,
+  "latest_published_at":"2026-09-04T00:00:00+00:00",
+  "url":"by-ticker/CSL.json"
+ },
+ {
+  "asx_code":"CBA",
+  "company_name":"Commonwealth Bank",
+  "insight_count":635,
+  "latest_published_at":"2026-09-03T04:44:50+00:00",
+  "url":"by-ticker/CBA.json"
+ },
+ {
+  "asx_code":"RIO",
+  "company_name":"Rio Tinto",
+  "insight_count":393,
+  "latest_published_at":"2026-09-03T03:39:52+00:00",
+  "url":"by-ticker/RIO.json"
+ },
+ {
+  "asx_code":"MQG",
+  "company_name":"Macquarie Group",
+  "insight_count":388,
+  "latest_published_at":"2026-09-03T03:39:52+00:00",
+  "url":"by-ticker/MQG.json"
+ },
+ {
+  "asx_code":"GMG",
+  "company_name":"Goodman Group",
+  "insight_count":329,
+  "latest_published_at":"2026-09-04T02:01:47+00:00",
+  "url":"by-ticker/GMG.json"
+ },
+ {
+  "asx_code":"RMD",
+  "company_name":"ResMed",
+  "insight_count":324,
+  "latest_published_at":"2026-09-03T07:09:38+00:00",
+  "url":"by-ticker/RMD.json"
+ },
+ {
+  "asx_code":"WTC",
+  "company_name":"Wisetech Global",
+  "insight_count":316,
+  "latest_published_at":"2026-09-03T03:39:52+00:00",
+  "url":"by-ticker/WTC.json"
+ },
+ {
+  "asx_code":"STO",
+  "company_name":"Santos",
+  "insight_count":314,
+  "latest_published_at":"2026-09-03T07:09:38+00:00",
+  "url":"by-ticker/STO.json"
+ },
+ {
+  "asx_code":"NAB",
+  "company_name":"National Australia Bank",
+  "insight_count":302,
+  "latest_published_at":"2026-09-03T04:44:50+00:00",
+  "url":"by-ticker/NAB.json"
+ },
+ {
+  "asx_code":"JHX",
+  "company_name":"James Hardie",
+  "insight_count":300,
+  "latest_published_at":"2026-08-21T02:34:40+00:00",
+  "url":"by-ticker/JHX.json"
+ },
+ {
+  "asx_code":"WDS",
+  "company_name":"Woodside Energy Group",
+  "insight_count":287,
+  "latest_published_at":"2026-09-03T02:03:58+00:00",
+  "url":"by-ticker/WDS.json"
+ },
+ {
+  "asx_code":"ALL",
+  "company_name":"Aristocrat Leisure",
+  "insight_count":274,
+  "latest_published_at":"2026-09-01T00:00:00+00:00",
+  "url":"by-ticker/ALL.json"
+ },
+ {
+  "asx_code":"WES",
+  "company_name":"Wesfarmers",
+  "insight_count":268,
+  "latest_published_at":"2026-09-03T02:03:58+00:00",
+  "url":"by-ticker/WES.json"
+ },
+ {
+  "asx_code":"TLS",
+  "company_name":"Telstra",
+  "insight_count":264,
+  "latest_published_at":"2026-09-03T07:09:38+00:00",
+  "url":"by-ticker/TLS.json"
+ },
+ {
+  "asx_code":"WOW",
+  "company_name":"Woolworths Group",
+  "insight_count":253,
+  "latest_published_at":"2026-09-03T23:39:44+00:00",
+  "url":"by-ticker/WOW.json"
+ },
+ {
+  "asx_code":"WBC",
+  "company_name":"Westpac",
+  "insight_count":234,
+  "latest_published_at":"2026-09-03T04:44:50+00:00",
+  "url":"by-ticker/WBC.json"
+ },
+ {
+  "asx_code":"XRO",
+  "company_name":"Xero",
+  "insight_count":224,
+  "latest_published_at":"2026-09-04T03:31:52+00:00",
+  "url":"by-ticker/XRO.json"
+ },
+ {
+  "asx_code":"ANZ",
+  "company_name":"Australia & New Zealand Banking Group",
+  "insight_count":215,
+  "latest_published_at":"2026-09-03T04:44:50+00:00",
+  "url":"by-ticker/ANZ.json"
+ },
+ {
+  "asx_code":"MIN",
+  "company_name":"Mineral Resources",
+  "insight_count":201,
+  "latest_published_at":"2026-09-03T03:39:52+00:00",
+  "url":"by-ticker/MIN.json"
+ },
+ {
+  "asx_code":"REA",
+  "company_name":"REA Group",
+  "insight_count":199,
+  "latest_published_at":"2026-09-02T00:00:00+00:00",
+  "url":"by-ticker/REA.json"
+ },
+ {
+  "asx_code":"FMG",
+  "company_name":"Fortescue",
+  "insight_count":198,
+  "latest_published_at":"2026-09-04T06:43:36+00:00",
+  "url":"by-ticker/FMG.json"
+ },
+ {
+  "asx_code":"COH",
+  "company_name":"Cochlear",
+  "insight_count":191,
+  "latest_published_at":"2026-09-03T02:03:58+00:00",
+  "url":"by-ticker/COH.json"
+ },
+ {
+  "asx_code":"A2M",
+  "company_name":"a2 Milk Company",
+  "insight_count":188,
+  "latest_published_at":"2026-08-25T05:40:41+00:00",
+  "url":"by-ticker/A2M.json"
+ },
+ {
+  "asx_code":"CAR",
+  "company_name":"CAR Group",
+  "insight_count":179,
+  "latest_published_at":"2026-09-01T04:31:35+00:00",
+  "url":"by-ticker/CAR.json"
+ },
+ {
+  "asx_code":"NST",
+  "company_name":"Northern Star Resources",
+  "insight_count":174,
+  "latest_published_at":"2026-09-02T03:30:34+00:00",
+  "url":"by-ticker/NST.json"
+ },
+ {
+  "asx_code":"PLS",
+  "company_name":"PLS Group",
+  "insight_count":172,
+  "latest_published_at":"2026-09-03T00:00:00+00:00",
+  "url":"by-ticker/PLS.json"
+ },
+ {
+  "asx_code":"360",
+  "company_name":"Life360",
+  "insight_count":170,
+  "latest_published_at":"2026-09-01T00:00:00+00:00",
+  "url":"by-ticker/360.json"
+ },
+ {
+  "asx_code":"QBE",
+  "company_name":"QBE Insurance",
+  "insight_count":167,
+  "latest_published_at":"2026-09-03T03:39:52+00:00",
+  "url":"by-ticker/QBE.json"
+ },
+ {
+  "asx_code":"PME",
+  "company_name":"Pro Medicus",
+  "insight_count":166,
+  "latest_published_at":"2026-09-03T07:09:38+00:00",
+  "url":"by-ticker/PME.json"
+ },
+ {
+  "asx_code":"ORG",
+  "company_name":"Origin Energy",
+  "insight_count":166,
+  "latest_published_at":"2026-08-21T04:17:22+00:00",
+  "url":"by-ticker/ORG.json"
+ },
+ {
+  "asx_code":"BXB",
+  "company_name":"Brambles",
+  "insight_count":163,
+  "latest_published_at":"2026-09-04T03:31:52+00:00",
+  "url":"by-ticker/BXB.json"
+ },
+ {
+  "asx_code":"ZIP",
+  "company_name":"Zip",
+  "insight_count":162,
+  "latest_published_at":"2026-09-02T03:30:34+00:00",
+  "url":"by-ticker/ZIP.json"
+ },
+ {
+  "asx_code":"RHC",
+  "company_name":"Ramsay Health Care",
+  "insight_count":161,
+  "latest_published_at":"2026-09-04T00:00:00+00:00",
+  "url":"by-ticker/RHC.json"
+ },
+ {
+  "asx_code":"TNE",
+  "company_name":"TechnologyOne",
+  "insight_count":160,
+  "latest_published_at":"2026-09-01T04:31:35+00:00",
+  "url":"by-ticker/TNE.json"
+ },
+ {
+  "asx_code":"SEK",
+  "company_name":"Seek",
+  "insight_count":155,
+  "latest_published_at":"2026-09-01T04:31:35+00:00",
+  "url":"by-ticker/SEK.json"
+ },
+ {
+  "asx_code":"NWS",
+  "company_name":"News Corp Class B",
+  "insight_count":155,
+  "latest_published_at":"2026-09-01T00:00:00+00:00",
+  "url":"by-ticker/NWS.json"
+ },
+ {
+  "asx_code":"BSL",
+  "company_name":"BlueScope",
+  "insight_count":152,
+  "latest_published_at":"2026-09-04T03:31:52+00:00",
+  "url":"by-ticker/BSL.json"
+ },
+ {
+  "asx_code":"COL",
+  "company_name":"Coles Group",
+  "insight_count":150,
+  "latest_published_at":"2026-09-03T23:39:44+00:00",
+  "url":"by-ticker/COL.json"
+ },
+ {
+  "asx_code":"EVN",
+  "company_name":"Evolution Mining",
+  "insight_count":149,
+  "latest_published_at":"2026-09-03T00:00:00+00:00",
+  "url":"by-ticker/EVN.json"
+ },
+ {
+  "asx_code":"JBH",
+  "company_name":"JB Hi-Fi",
+  "insight_count":144,
+  "latest_published_at":"2026-09-03T04:44:50+00:00",
+  "url":"by-ticker/JBH.json"
+ },
+ {
+  "asx_code":"FPH",
+  "company_name":"Fisher & Paykel Healthcare",
+  "insight_count":143,
+  "latest_published_at":"2026-09-02T05:08:44+00:00",
+  "url":"by-ticker/FPH.json"
+ },
+ {
+  "asx_code":"PNI",
+  "company_name":"Pinnacle Investment Management",
+  "insight_count":143,
+  "latest_published_at":"2026-08-12T19:05:00+00:00",
+  "url":"by-ticker/PNI.json"
+ },
+ {
+  "asx_code":"ALD",
+  "company_name":"Ampol",
+  "insight_count":142,
+  "latest_published_at":"2026-09-03T03:39:52+00:00",
+  "url":"by-ticker/ALD.json"
+ },
+ {
+  "asx_code":"BRG",
+  "company_name":"Breville Group",
+  "insight_count":140,
+  "latest_published_at":"2026-08-21T03:29:41+00:00",
+  "url":"by-ticker/BRG.json"
+ },
+ {
+  "asx_code":"S32",
+  "company_name":"South32",
+  "insight_count":138,
+  "latest_published_at":"2026-09-01T04:31:35+00:00",
+  "url":"by-ticker/S32.json"
+ },
+ {
+  "asx_code":"IFT",
+  "company_name":"Infratil",
+  "insight_count":138,
+  "latest_published_at":"2026-09-01T01:48:26+00:00",
+  "url":"by-ticker/IFT.json"
+ },
+ {
+  "asx_code":"QAN",
+  "company_name":"Qantas",
+  "insight_count":137,
+  "latest_published_at":"2026-08-27T23:01:42+00:00",
+  "url":"by-ticker/QAN.json"
+ },
+ {
+  "asx_code":"REH",
+  "company_name":"Reece Group",
+  "insight_count":135,
+  "latest_published_at":"2026-08-24T03:11:41+00:00",
+  "url":"by-ticker/REH.json"
+ },
+ {
+  "asx_code":"AUB",
+  "company_name":"AUB Group",
+  "insight_count":133,
+  "latest_published_at":"2026-08-21T01:33:29+00:00",
+  "url":"by-ticker/AUB.json"
+ },
+ {
+  "asx_code":"IAG",
+  "company_name":"Insurance Australia Group",
+  "insight_count":132,
+  "latest_published_at":"2026-09-01T00:00:00+00:00",
+  "url":"by-ticker/IAG.json"
+ },
+ {
+  "asx_code":"SUN",
+  "company_name":"Suncorp",
+  "insight_count":129,
+  "latest_published_at":"2026-08-25T20:58:41+00:00",
+  "url":"by-ticker/SUN.json"
+ },
+ {
+  "asx_code":"NXT",
+  "company_name":"NextDC",
+  "insight_count":124,
+  "latest_published_at":"2026-08-31T05:55:58+00:00",
+  "url":"by-ticker/NXT.json"
+ },
+ {
+  "asx_code":"ALQ",
+  "company_name":"ALS",
+  "insight_count":118,
+  "latest_published_at":"2026-08-18T03:56:24+00:00",
+  "url":"by-ticker/ALQ.json"
+ },
+ {
+  "asx_code":"HUB",
+  "company_name":"HUB24",
+  "insight_count":117,
+  "latest_published_at":"2026-08-31T06:50:24+00:00",
+  "url":"by-ticker/HUB.json"
+ },
+ {
+  "asx_code":"LYC",
+  "company_name":"Lynas Rare Earths",
+  "insight_count":117,
+  "latest_published_at":"2026-08-28T05:33:57+00:00",
+  "url":"by-ticker/LYC.json"
+ },
+ {
+  "asx_code":"TLX",
+  "company_name":"Telix Pharmaceuticals",
+  "insight_count":116,
+  "latest_published_at":"2026-09-03T00:00:00+00:00",
+  "url":"by-ticker/TLX.json"
+ },
+ {
+  "asx_code":"NEM",
+  "company_name":"Newmont",
+  "insight_count":112,
+  "latest_published_at":"2026-09-02T00:00:00+00:00",
+  "url":"by-ticker/NEM.json"
+ },
+ {
+  "asx_code":"ILU",
+  "company_name":"Iluka Resources",
+  "insight_count":112,
+  "latest_published_at":"2026-08-19T05:40:56+00:00",
+  "url":"by-ticker/ILU.json"
+ },
+ {
+  "asx_code":"AIA",
+  "company_name":"Auckland Airport",
+  "insight_count":110,
+  "latest_published_at":"2026-08-01T00:00:00+00:00",
+  "url":"by-ticker/AIA.json"
+ },
+ {
+  "asx_code":"SGH",
+  "company_name":"SGH",
+  "insight_count":109,
+  "latest_published_at":"2026-09-03T03:39:52+00:00",
+  "url":"by-ticker/SGH.json"
+ },
+ {
+  "asx_code":"VEA",
+  "company_name":"Viva Energy",
+  "insight_count":108,
+  "latest_published_at":"2026-09-03T00:00:00+00:00",
+  "url":"by-ticker/VEA.json"
+ },
+ {
+  "asx_code":"XYX",
+  "company_name":"Block, Inc.",
+  "insight_count":108,
+  "latest_published_at":"2026-08-28T03:28:40+00:00",
+  "url":"by-ticker/XYX.json"
+ },
+ {
+  "asx_code":"RYM",
+  "company_name":"Ryman Healthcare",
+  "insight_count":108,
+  "latest_published_at":"2026-04-01T00:00:00+00:00",
+  "url":"by-ticker/RYM.json"
+ },
+ {
+  "asx_code":"AMC",
+  "company_name":"Amcor",
+  "insight_count":107,
+  "latest_published_at":"2026-09-02T03:30:34+00:00",
+  "url":"by-ticker/AMC.json"
+ },
+ {
+  "asx_code":"CHC",
+  "company_name":"Charter Hall",
+  "insight_count":107,
+  "latest_published_at":"2026-09-01T06:24:34+00:00",
+  "url":"by-ticker/CHC.json"
+ },
+ {
+  "asx_code":"FBU",
+  "company_name":"Fletcher Building",
+  "insight_count":107,
+  "latest_published_at":"2026-08-19T01:22:04+00:00",
+  "url":"by-ticker/FBU.json"
+ },
+ {
+  "asx_code":"CEN",
+  "company_name":"Contact Energy",
+  "insight_count":105,
+  "latest_published_at":"2026-08-19T03:51:40+00:00",
+  "url":"by-ticker/CEN.json"
+ },
+ {
+  "asx_code":"TAH",
+  "company_name":"Tabcorp",
+  "insight_count":101,
+  "latest_published_at":"2026-09-04T05:42:07+00:00",
+  "url":"by-ticker/TAH.json"
+ },
+ {
+  "asx_code":"CPU",
+  "company_name":"Computershare",
+  "insight_count":101,
+  "latest_published_at":"2026-09-01T01:48:26+00:00",
+  "url":"by-ticker/CPU.json"
+ },
+ {
+  "asx_code":"EBO",
+  "company_name":"EBOS Group",
+  "insight_count":99,
+  "latest_published_at":"2026-09-04T03:31:52+00:00",
+  "url":"by-ticker/EBO.json"
+ },
+ {
+  "asx_code":"WHC",
+  "company_name":"Whitehaven Coal",
+  "insight_count":99,
+  "latest_published_at":"2026-09-04T03:31:52+00:00",
+  "url":"by-ticker/WHC.json"
+ },
+ {
+  "asx_code":"SFR",
+  "company_name":"Sandfire Resources",
+  "insight_count":98,
+  "latest_published_at":"2026-09-04T03:31:52+00:00",
+  "url":"by-ticker/SFR.json"
+ },
+ {
+  "asx_code":"SIG",
+  "company_name":"Sigma Healthcare",
+  "insight_count":97,
+  "latest_published_at":"2026-09-03T00:00:00+00:00",
+  "url":"by-ticker/SIG.json"
+ },
+ {
+  "asx_code":"ORI",
+  "company_name":"Orica",
+  "insight_count":96,
+  "latest_published_at":"2026-08-12T00:00:00+00:00",
+  "url":"by-ticker/ORI.json"
+ },
+ {
+  "asx_code":"IGO",
+  "company_name":"IGO",
+  "insight_count":95,
+  "latest_published_at":"2026-09-03T00:00:00+00:00",
+  "url":"by-ticker/IGO.json"
+ },
+ {
+  "asx_code":"REG",
+  "company_name":"Regis Healthcare",
+  "insight_count":94,
+  "latest_published_at":"2026-09-04T05:42:07+00:00",
+  "url":"by-ticker/REG.json"
+ },
+ {
+  "asx_code":"CWY",
+  "company_name":"Cleanaway",
+  "insight_count":94,
+  "latest_published_at":"2026-09-03T23:41:42+00:00",
+  "url":"by-ticker/CWY.json"
+ },
+ {
+  "asx_code":"MFG",
+  "company_name":"Magellan Financial Group",
+  "insight_count":91,
+  "latest_published_at":"2026-09-01T00:00:00+00:00",
+  "url":"by-ticker/MFG.json"
+ },
+ {
+  "asx_code":"GMD",
+  "company_name":"Genesis Minerals",
+  "insight_count":89,
+  "latest_published_at":"2026-08-27T03:28:46+00:00",
+  "url":"by-ticker/GMD.json"
+ },
+ {
+  "asx_code":"SGP",
+  "company_name":"Stockland",
+  "insight_count":86,
+  "latest_published_at":"2026-09-01T06:24:34+00:00",
+  "url":"by-ticker/SGP.json"
+ },
+ {
+  "asx_code":"WOR",
+  "company_name":"Worley",
+  "insight_count":84,
+  "latest_published_at":"2026-09-03T23:41:42+00:00",
+  "url":"by-ticker/WOR.json"
+ },
+ {
+  "asx_code":"TWE",
+  "company_name":"Treasury Wine Estates",
+  "insight_count":82,
+  "latest_published_at":"2026-08-25T05:40:41+00:00",
+  "url":"by-ticker/TWE.json"
+ },
+ {
+  "asx_code":"APE",
+  "company_name":"Eagers Automotive",
+  "insight_count":81,
+  "latest_published_at":"2026-09-04T03:54:23+00:00",
+  "url":"by-ticker/APE.json"
+ },
+ {
+  "asx_code":"FLT",
+  "company_name":"Flight Centre Travel Group",
+  "insight_count":80,
+  "latest_published_at":"2026-08-26T05:52:13+00:00",
+  "url":"by-ticker/FLT.json"
+ },
+ {
+  "asx_code":"RWC",
+  "company_name":"Reliance Worldwide Corporation",
+  "insight_count":79,
+  "latest_published_at":"2026-09-03T23:41:42+00:00",
+  "url":"by-ticker/RWC.json"
+ },
+ {
+  "asx_code":"TCL",
+  "company_name":"Transurban",
+  "insight_count":79,
+  "latest_published_at":"2026-09-03T23:41:42+00:00",
+  "url":"by-ticker/TCL.json"
+ },
+ {
+  "asx_code":"PMV",
+  "company_name":"Premier Investments",
+  "insight_count":79,
+  "latest_published_at":"2026-08-21T03:29:41+00:00",
+  "url":"by-ticker/PMV.json"
+ },
+ {
+  "asx_code":"LTR",
+  "company_name":"Liontown Resources",
+  "insight_count":78,
+  "latest_published_at":"2026-08-31T07:12:44+00:00",
+  "url":"by-ticker/LTR.json"
+ },
+ {
+  "asx_code":"LLC",
+  "company_name":"Lendlease",
+  "insight_count":78,
+  "latest_published_at":"2026-08-18T00:00:00+00:00",
+  "url":"by-ticker/LLC.json"
+ },
+ {
+  "asx_code":"CTD",
+  "company_name":"Corporate Travel Management",
+  "insight_count":77,
+  "latest_published_at":"2026-09-04T21:00:00+00:00",
+  "url":"by-ticker/CTD.json"
+ },
+ {
+  "asx_code":"SGM",
+  "company_name":"Sims Metal",
+  "insight_count":77,
+  "latest_published_at":"2026-08-31T03:36:06+00:00",
+  "url":"by-ticker/SGM.json"
+ },
+ {
+  "asx_code":"PPT",
+  "company_name":"Perpetual",
+  "insight_count":76,
+  "latest_published_at":"2026-09-03T02:03:58+00:00",
+  "url":"by-ticker/PPT.json"
+ },
+ {
+  "asx_code":"AGL",
+  "company_name":"AGL Energy",
+  "insight_count":75,
+  "latest_published_at":"2026-09-03T02:03:58+00:00",
+  "url":"by-ticker/AGL.json"
+ },
+ {
+  "asx_code":"MTS",
+  "company_name":"Metcash",
+  "insight_count":75,
+  "latest_published_at":"2026-09-01T06:24:34+00:00",
+  "url":"by-ticker/MTS.json"
+ },
+ {
+  "asx_code":"ORA",
+  "company_name":"Orora",
+  "insight_count":72,
+  "latest_published_at":"2026-09-02T03:30:34+00:00",
+  "url":"by-ticker/ORA.json"
+ },
+ {
+  "asx_code":"NWH",
+  "company_name":"NRW Holdings",
+  "insight_count":72,
+  "latest_published_at":"2026-09-02T00:00:00+00:00",
+  "url":"by-ticker/NWH.json"
+ },
+ {
+  "asx_code":"CSC",
+  "company_name":"Capstone Copper",
+  "insight_count":72,
+  "latest_published_at":"2026-08-25T05:40:41+00:00",
+  "url":"by-ticker/CSC.json"
+ },
+ {
+  "asx_code":"NWL",
+  "company_name":"Netwealth Group",
+  "insight_count":71,
+  "latest_published_at":"2026-08-31T06:50:24+00:00",
+  "url":"by-ticker/NWL.json"
+ },
+ {
+  "asx_code":"CGF",
+  "company_name":"Challenger",
+  "insight_count":71,
+  "latest_published_at":"2026-08-21T21:00:00+00:00",
+  "url":"by-ticker/CGF.json"
+ },
+ {
+  "asx_code":"DRO",
+  "company_name":"Droneshield",
+  "insight_count":70,
+  "latest_published_at":"2026-09-02T03:30:34+00:00",
+  "url":"by-ticker/DRO.json"
+ },
+ {
+  "asx_code":"CMM",
+  "company_name":"Capricorn Metals",
+  "insight_count":69,
+  "latest_published_at":"2026-08-19T03:31:02+00:00",
+  "url":"by-ticker/CMM.json"
+ },
+ {
+  "asx_code":"LNW",
+  "company_name":"Light & Wonder",
+  "insight_count":68,
+  "latest_published_at":"2026-08-13T00:56:45+00:00",
+  "url":"by-ticker/LNW.json"
+ },
+ {
+  "asx_code":"VNT",
+  "company_name":"Ventia Services Group",
+  "insight_count":67,
+  "latest_published_at":"2026-08-13T00:00:00+00:00",
+  "url":"by-ticker/VNT.json"
+ },
+ {
+  "asx_code":"LOV",
+  "company_name":"Lovisa",
+  "insight_count":63,
+  "latest_published_at":"2026-09-02T06:57:27+00:00",
+  "url":"by-ticker/LOV.json"
+ },
+ {
+  "asx_code":"AMP",
+  "company_name":"AMP",
+  "insight_count":63,
+  "latest_published_at":"2026-08-28T03:28:40+00:00",
+  "url":"by-ticker/AMP.json"
+ },
+ {
+  "asx_code":"CDA",
+  "company_name":"Codan",
+  "insight_count":62,
+  "latest_published_at":"2026-09-03T06:13:29+00:00",
+  "url":"by-ticker/CDA.json"
+ },
+ {
+  "asx_code":"PDN",
+  "company_name":"Paladin Energy",
+  "insight_count":61,
+  "latest_published_at":"2026-09-02T03:30:34+00:00",
+  "url":"by-ticker/PDN.json"
+ },
+ {
+  "asx_code":"IMD",
+  "company_name":"IMDEX",
+  "insight_count":61,
+  "latest_published_at":"2026-08-17T05:38:36+00:00",
+  "url":"by-ticker/IMD.json"
+ },
+ {
+  "asx_code":"SDF",
+  "company_name":"Steadfast Group",
+  "insight_count":58,
+  "latest_published_at":"2026-09-02T05:08:44+00:00",
+  "url":"by-ticker/SDF.json"
+ },
+ {
+  "asx_code":"ARB",
+  "company_name":"ARB Corporation",
+  "insight_count":58,
+  "latest_published_at":"2026-08-31T01:01:53+00:00",
+  "url":"by-ticker/ARB.json"
+ },
+ {
+  "asx_code":"GQG",
+  "company_name":"GQG Partners",
+  "insight_count":57,
+  "latest_published_at":"2026-08-28T21:48:00+00:00",
+  "url":"by-ticker/GQG.json"
+ },
+ {
+  "asx_code":"MGR",
+  "company_name":"Mirvac",
+  "insight_count":56,
+  "latest_published_at":"2026-09-01T05:51:34+00:00",
+  "url":"by-ticker/MGR.json"
+ },
+ {
+  "asx_code":"SPK",
+  "company_name":"Spark New Zealand",
+  "insight_count":55,
+  "latest_published_at":"2026-08-24T00:27:32+00:00",
+  "url":"by-ticker/SPK.json"
+ },
+ {
+  "asx_code":"ASX",
+  "company_name":"ASX",
+  "insight_count":54,
+  "latest_published_at":"2026-09-01T02:01:38+00:00",
+  "url":"by-ticker/ASX.json"
+ },
+ {
+  "asx_code":"MPL",
+  "company_name":"Medibank",
+  "insight_count":54,
+  "latest_published_at":"2026-08-31T03:36:06+00:00",
+  "url":"by-ticker/MPL.json"
+ },
+ {
+  "asx_code":"BGA",
+  "company_name":"Bega Cheese",
+  "insight_count":54,
+  "latest_published_at":"2026-08-21T00:00:00+00:00",
+  "url":"by-ticker/BGA.json"
+ },
+ {
+  "asx_code":"PXA",
+  "company_name":"Pexa Group",
+  "insight_count":53,
+  "latest_published_at":"2026-08-28T07:08:39+00:00",
+  "url":"by-ticker/PXA.json"
+ },
+ {
+  "asx_code":"SCG",
+  "company_name":"Scentre Group",
+  "insight_count":53,
+  "latest_published_at":"2026-08-27T19:00:00+00:00",
+  "url":"by-ticker/SCG.json"
+ },
+ {
+  "asx_code":"AZJ",
+  "company_name":"Aurizon",
+  "insight_count":53,
+  "latest_published_at":"2026-08-26T02:10:46+00:00",
+  "url":"by-ticker/AZJ.json"
+ },
+ {
+  "asx_code":"DBI",
+  "company_name":"Dalrymple Bay Infrastructure",
+  "insight_count":53,
+  "latest_published_at":"2026-08-13T03:18:10+00:00",
+  "url":"by-ticker/DBI.json"
+ },
+ {
+  "asx_code":"DRR",
+  "company_name":"Deterra Royalties",
+  "insight_count":53,
+  "latest_published_at":"2026-08-06T03:44:01+00:00",
+  "url":"by-ticker/DRR.json"
+ },
+ {
+  "asx_code":"DXS",
+  "company_name":"Dexus",
+  "insight_count":52,
+  "latest_published_at":"2026-09-02T03:30:34+00:00",
+  "url":"by-ticker/DXS.json"
+ },
+ {
+  "asx_code":"SHL",
+  "company_name":"Sonic Healthcare",
+  "insight_count":51,
+  "latest_published_at":"2026-09-03T00:00:00+00:00",
+  "url":"by-ticker/SHL.json"
+ },
+ {
+  "asx_code":"NHC",
+  "company_name":"New Hope",
+  "insight_count":50,
+  "latest_published_at":"2026-09-04T03:31:52+00:00",
+  "url":"by-ticker/NHC.json"
+ },
+ {
+  "asx_code":"SUL",
+  "company_name":"Super Retail Group",
+  "insight_count":50,
+  "latest_published_at":"2026-08-30T23:21:15+00:00",
+  "url":"by-ticker/SUL.json"
+ },
+ {
+  "asx_code":"SMR",
+  "company_name":"Stanmore Resources",
+  "insight_count":49,
+  "latest_published_at":"2026-09-04T06:43:36+00:00",
+  "url":"by-ticker/SMR.json"
+ },
+ {
+  "asx_code":"TPG",
+  "company_name":"TPG Telecom",
+  "insight_count":48,
+  "latest_published_at":"2026-08-26T03:56:25+00:00",
+  "url":"by-ticker/TPG.json"
+ },
+ {
+  "asx_code":"SNZ",
+  "company_name":"Summerset Group Holdings",
+  "insight_count":48,
+  "latest_published_at":"2026-08-24T00:27:32+00:00",
+  "url":"by-ticker/SNZ.json"
+ },
+ {
+  "asx_code":"SOL",
+  "company_name":"Soul Patts",
+  "insight_count":48,
+  "latest_published_at":"2026-08-20T19:02:00+00:00",
+  "url":"by-ticker/SOL.json"
+ },
+ {
+  "asx_code":"HVN",
+  "company_name":"Harvey Norman",
+  "insight_count":47,
+  "latest_published_at":"2026-09-03T04:44:50+00:00",
+  "url":"by-ticker/HVN.json"
+ },
+ {
+  "asx_code":"MND",
+  "company_name":"Monadelphous Group",
+  "insight_count":46,
+  "latest_published_at":"2026-09-03T03:39:52+00:00",
+  "url":"by-ticker/MND.json"
+ },
+ {
+  "asx_code":"ASB",
+  "company_name":"Austal",
+  "insight_count":46,
+  "latest_published_at":"2026-08-31T07:12:44+00:00",
+  "url":"by-ticker/ASB.json"
+ },
+ {
+  "asx_code":"VAU",
+  "company_name":"Vault Minerals",
+  "insight_count":46,
+  "latest_published_at":"2026-08-27T03:28:46+00:00",
+  "url":"by-ticker/VAU.json"
+ },
+ {
+  "asx_code":"EVT",
+  "company_name":"EVT",
+  "insight_count":45,
+  "latest_published_at":"2026-08-24T07:01:27+00:00",
+  "url":"by-ticker/EVT.json"
+ },
+ {
+  "asx_code":"TLC",
+  "company_name":"The Lottery Corporation",
+  "insight_count":44,
+  "latest_published_at":"2026-09-04T06:43:36+00:00",
+  "url":"by-ticker/TLC.json"
+ },
+ {
+  "asx_code":"RMS",
+  "company_name":"Ramelius Resources",
+  "insight_count":44,
+  "latest_published_at":"2026-08-31T05:55:58+00:00",
+  "url":"by-ticker/RMS.json"
+ },
+ {
+  "asx_code":"GDG",
+  "company_name":"Generation Development Group",
+  "insight_count":44,
+  "latest_published_at":"2026-08-27T07:10:52+00:00",
+  "url":"by-ticker/GDG.json"
+ },
+ {
+  "asx_code":"MEZ",
+  "company_name":"Meridian Energy",
+  "insight_count":44,
+  "latest_published_at":"2026-08-24T00:27:32+00:00",
+  "url":"by-ticker/MEZ.json"
+ },
+ {
+  "asx_code":"FRW",
+  "company_name":"Freightways Group",
+  "insight_count":44,
+  "latest_published_at":"2026-08-18T00:00:00+00:00",
+  "url":"by-ticker/FRW.json"
+ },
+ {
+  "asx_code":"AAI",
+  "company_name":"Alcoa",
+  "insight_count":44,
+  "latest_published_at":"2026-08-13T05:49:34+00:00",
+  "url":"by-ticker/AAI.json"
+ },
+ {
+  "asx_code":"TUA",
+  "company_name":"Tuas",
+  "insight_count":43,
+  "latest_published_at":"2026-07-22T00:00:00+00:00",
+  "url":"by-ticker/TUA.json"
+ },
+ {
+  "asx_code":"EDV",
+  "company_name":"Endeavour Group",
+  "insight_count":42,
+  "latest_published_at":"2026-09-03T08:47:47+00:00",
+  "url":"by-ticker/EDV.json"
+ },
+ {
+  "asx_code":"BPT",
+  "company_name":"Beach Energy",
+  "insight_count":41,
+  "latest_published_at":"2026-09-03T00:00:00+00:00",
+  "url":"by-ticker/BPT.json"
+ },
+ {
+  "asx_code":"EOS",
+  "company_name":"Electro Optic Systems Holdings",
+  "insight_count":41,
+  "latest_published_at":"2026-08-31T05:55:58+00:00",
+  "url":"by-ticker/EOS.json"
+ },
+ {
+  "asx_code":"PRN",
+  "company_name":"Perenti",
+  "insight_count":38,
+  "latest_published_at":"2026-08-10T03:59:08+00:00",
+  "url":"by-ticker/PRN.json"
+ },
+ {
+  "asx_code":"NXG",
+  "company_name":"Nexgen Energy",
+  "insight_count":38,
+  "latest_published_at":"2026-08-04T03:38:59+00:00",
+  "url":"by-ticker/NXG.json"
+ },
+ {
+  "asx_code":"IFL",
+  "company_name":"Insignia Financial",
+  "insight_count":37,
+  "latest_published_at":"2026-09-03T00:00:00+00:00",
+  "url":"by-ticker/IFL.json"
+ },
+ {
+  "asx_code":"NHF",
+  "company_name":"Nib",
+  "insight_count":37,
+  "latest_published_at":"2026-08-31T03:36:06+00:00",
+  "url":"by-ticker/NHF.json"
+ },
+ {
+  "asx_code":"CNU",
+  "company_name":"Chorus",
+  "insight_count":37,
+  "latest_published_at":"2026-08-24T07:01:27+00:00",
+  "url":"by-ticker/CNU.json"
+ },
+ {
+  "asx_code":"BEN",
+  "company_name":"Bendigo & Adelaide Bank",
+  "insight_count":35,
+  "latest_published_at":"2026-08-28T21:48:00+00:00",
+  "url":"by-ticker/BEN.json"
+ },
+ {
+  "asx_code":"APA",
+  "company_name":"APA Group",
+  "insight_count":34,
+  "latest_published_at":"2026-09-04T03:31:52+00:00",
+  "url":"by-ticker/APA.json"
+ },
+ {
+  "asx_code":"MCY",
+  "company_name":"Mercury NZ",
+  "insight_count":34,
+  "latest_published_at":"2026-08-19T03:51:40+00:00",
+  "url":"by-ticker/MCY.json"
+ },
+ {
+  "asx_code":"GPT",
+  "company_name":"GPT Group",
+  "insight_count":33,
+  "latest_published_at":"2026-08-17T07:00:35+00:00",
+  "url":"by-ticker/GPT.json"
+ },
+ {
+  "asx_code":"ANN",
+  "company_name":"Ansell",
+  "insight_count":32,
+  "latest_published_at":"2026-09-03T08:47:47+00:00",
+  "url":"by-ticker/ANN.json"
+ },
+ {
+  "asx_code":"RRL",
+  "company_name":"Regis Resources",
+  "insight_count":32,
+  "latest_published_at":"2026-09-03T00:00:00+00:00",
+  "url":"by-ticker/RRL.json"
+ },
+ {
+  "asx_code":"DOW",
+  "company_name":"Downer Group",
+  "insight_count":31,
+  "latest_published_at":"2026-08-20T07:03:30+00:00",
+  "url":"by-ticker/DOW.json"
+ },
+ {
+  "asx_code":"VCX",
+  "company_name":"Vicinity Centres",
+  "insight_count":31,
+  "latest_published_at":"2026-08-11T04:08:09+00:00",
+  "url":"by-ticker/VCX.json"
+ },
+ {
+  "asx_code":"QUB",
+  "company_name":"Qube Holdings",
+  "insight_count":31,
+  "latest_published_at":"2026-08-01T00:00:00+00:00",
+  "url":"by-ticker/QUB.json"
+ },
+ {
+  "asx_code":"ALX",
+  "company_name":"Atlas Arteria",
+  "insight_count":30,
+  "latest_published_at":"2026-09-02T05:08:44+00:00",
+  "url":"by-ticker/ALX.json"
+ },
+ {
+  "asx_code":"BWP",
+  "company_name":"BWP Trust",
+  "insight_count":30,
+  "latest_published_at":"2026-08-21T06:33:02+00:00",
+  "url":"by-ticker/BWP.json"
+ },
+ {
+  "asx_code":"BGL",
+  "company_name":"Bellevue Gold",
+  "insight_count":28,
+  "latest_published_at":"2026-08-14T01:58:34+00:00",
+  "url":"by-ticker/BGL.json"
+ },
+ {
+  "asx_code":"HDN",
+  "company_name":"HomeCo Daily Needs REIT",
+  "insight_count":27,
+  "latest_published_at":"2026-08-19T03:31:02+00:00",
+  "url":"by-ticker/HDN.json"
+ },
+ {
+  "asx_code":"CQR",
+  "company_name":"Charter Hall Retail REIT",
+  "insight_count":27,
+  "latest_published_at":"2026-08-19T00:00:00+00:00",
+  "url":"by-ticker/CQR.json"
+ },
+ {
+  "asx_code":"BOQ",
+  "company_name":"Bank of Queensland",
+  "insight_count":27,
+  "latest_published_at":"2026-08-13T06:57:56+00:00",
+  "url":"by-ticker/BOQ.json"
+ },
+ {
+  "asx_code":"VGN",
+  "company_name":"Virgin Australia Holdings",
+  "insight_count":26,
+  "latest_published_at":"2026-09-03T02:03:58+00:00",
+  "url":"by-ticker/VGN.json"
+ },
+ {
+  "asx_code":"4DX",
+  "company_name":"4DMedical",
+  "insight_count":26,
+  "latest_published_at":"2026-08-17T02:33:37+00:00",
+  "url":"by-ticker/4DX.json"
+ },
+ {
+  "asx_code":"NSR",
+  "company_name":"National Storage",
+  "insight_count":25,
+  "latest_published_at":"2026-07-01T00:00:00+00:00",
+  "url":"by-ticker/NSR.json"
+ },
+ {
+  "asx_code":"DNL",
+  "company_name":"Dyno Nobel",
+  "insight_count":23,
+  "latest_published_at":"2026-08-01T00:00:00+00:00",
+  "url":"by-ticker/DNL.json"
+ },
+ {
+  "asx_code":"GGP",
+  "company_name":"Greatland Resources",
+  "insight_count":22,
+  "latest_published_at":"2026-08-12T01:35:18+00:00",
+  "url":"by-ticker/GGP.json"
+ },
+ {
+  "asx_code":"RSG",
+  "company_name":"Resolute Mining",
+  "insight_count":22,
+  "latest_published_at":"2026-07-09T04:16:24+00:00",
+  "url":"by-ticker/RSG.json"
+ },
+ {
+  "asx_code":"WGX",
+  "company_name":"Westgold Resources",
+  "insight_count":20,
+  "latest_published_at":"2026-09-03T00:00:00+00:00",
+  "url":"by-ticker/WGX.json"
+ },
+ {
+  "asx_code":"MSB",
+  "company_name":"Mesoblast",
+  "insight_count":20,
+  "latest_published_at":"2026-08-17T07:00:35+00:00",
+  "url":"by-ticker/MSB.json"
+ },
+ {
+  "asx_code":"GNE",
+  "company_name":"Genesis Energy",
+  "insight_count":18,
+  "latest_published_at":"2026-09-02T01:35:37+00:00",
+  "url":"by-ticker/GNE.json"
+ },
+ {
+  "asx_code":"DYL",
+  "company_name":"Deep Yellow",
+  "insight_count":16,
+  "latest_published_at":"2026-08-24T06:43:47+00:00",
+  "url":"by-ticker/DYL.json"
+ },
+ {
+  "asx_code":"RDX",
+  "company_name":"Redox",
+  "insight_count":16,
+  "latest_published_at":"2026-08-12T04:58:10+00:00",
+  "url":"by-ticker/RDX.json"
+ },
+ {
+  "asx_code":"CLW",
+  "company_name":"Charter Hall Long WALE REIT",
+  "insight_count":14,
+  "latest_published_at":"2026-09-04T21:00:00+00:00",
+  "url":"by-ticker/CLW.json"
+ },
+ {
+  "asx_code":"ARG",
+  "company_name":"Argo Investments",
+  "insight_count":14,
+  "latest_published_at":"2026-09-02T00:00:00+00:00",
+  "url":"by-ticker/ARG.json"
+ },
+ {
+  "asx_code":"WAF",
+  "company_name":"West African Resources",
+  "insight_count":14,
+  "latest_published_at":"2026-08-24T03:11:41+00:00",
+  "url":"by-ticker/WAF.json"
+ },
+ {
+  "asx_code":"CYL",
+  "company_name":"Catalyst Metals",
+  "insight_count":13,
+  "latest_published_at":"2026-09-02T01:35:37+00:00",
+  "url":"by-ticker/CYL.json"
+ },
+ {
+  "asx_code":"L1G",
+  "company_name":"L1 Group",
+  "insight_count":13,
+  "latest_published_at":"2026-09-01T00:00:00+00:00",
+  "url":"by-ticker/L1G.json"
+ },
+ {
+  "asx_code":"EMR",
+  "company_name":"Emerald Resources",
+  "insight_count":13,
+  "latest_published_at":"2026-08-11T01:41:39+00:00",
+  "url":"by-ticker/EMR.json"
+ },
+ {
+  "asx_code":"NIC",
+  "company_name":"Nickel Industries",
+  "insight_count":12,
+  "latest_published_at":"2026-08-21T03:29:41+00:00",
+  "url":"by-ticker/NIC.json"
+ },
+ {
+  "asx_code":"ASK",
+  "company_name":"Abacus Storage King",
+  "insight_count":12,
+  "latest_published_at":"2026-08-14T07:41:42+00:00",
+  "url":"by-ticker/ASK.json"
+ },
+ {
+  "asx_code":"MFF",
+  "company_name":"MFF Capital Investments",
+  "insight_count":10,
+  "latest_published_at":"2026-01-01T00:00:00+00:00",
+  "url":"by-ticker/MFF.json"
+ },
+ {
+  "asx_code":"CIA",
+  "company_name":"Champion Iron",
+  "insight_count":9,
+  "latest_published_at":"2026-08-17T03:29:28+00:00",
+  "url":"by-ticker/CIA.json"
+ },
+ {
+  "asx_code":"YAN",
+  "company_name":"Yancoal Australia",
+  "insight_count":9,
+  "latest_published_at":"2026-08-10T03:59:08+00:00",
+  "url":"by-ticker/YAN.json"
+ },
+ {
+  "asx_code":"WAM",
+  "company_name":"WAM Capital",
+  "insight_count":8,
+  "latest_published_at":"2026-09-04T21:00:00+00:00",
+  "url":"by-ticker/WAM.json"
+ },
+ {
+  "asx_code":"CIP",
+  "company_name":"Centuria Industrial REIT",
+  "insight_count":8,
+  "latest_published_at":"2026-08-12T01:00:39+00:00",
+  "url":"by-ticker/CIP.json"
+ },
+ {
+  "asx_code":"OBM",
+  "company_name":"Ora Banda Mining",
+  "insight_count":7,
+  "latest_published_at":"2026-08-14T00:53:11+00:00",
+  "url":"by-ticker/OBM.json"
+ },
+ {
+  "asx_code":"AFI",
+  "company_name":"Australian Foundation Investment Company",
+  "insight_count":6,
+  "latest_published_at":"2026-08-11T06:47:53+00:00",
+  "url":"by-ticker/AFI.json"
+ },
+ {
+  "asx_code":"RGN",
+  "company_name":"Region Group",
+  "insight_count":5,
+  "latest_published_at":"2026-07-01T00:00:00+00:00",
+  "url":"by-ticker/RGN.json"
+ },
+ {
+  "asx_code":"MXT",
+  "company_name":"Metrics Master Income Trust",
+  "insight_count":3,
+  "latest_published_at":"2026-09-02T00:00:00+00:00",
+  "url":"by-ticker/MXT.json"
+ },
+ {
+  "asx_code":"LSF",
+  "company_name":"L1 Long Short Fund",
+  "insight_count":3,
+  "latest_published_at":"2026-06-25T06:08:18+00:00",
+  "url":"by-ticker/LSF.json"
+ },
+ {
+  "asx_code":"PRU",
+  "company_name":"Perseus Mining",
+  "insight_count":2,
+  "latest_published_at":"2026-09-03T00:00:00+00:00",
+  "url":"by-ticker/PRU.json"
+ },
+ {
+  "asx_code":"PDI",
+  "company_name":"Predictive Discovery",
+  "insight_count":2,
+  "latest_published_at":"2026-07-15T05:18:54+00:00",
+  "url":"by-ticker/PDI.json"
+ },
+ {
+  "asx_code":"WLE",
+  "company_name":"WAM Leaders",
+  "insight_count":1,
+  "latest_published_at":"2026-06-19T00:00:00+00:00",
+  "url":"by-ticker/WLE.json"
+ },
+ {
+  "asx_code":"ALK",
+  "company_name":"Alkane Resources",
+  "insight_count":1,
+  "latest_published_at":"2025-09-01T00:00:00+00:00",
+  "url":"by-ticker/ALK.json"
+ }
+]
